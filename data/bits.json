@@ -1,0 +1,2907 @@
+[
+  {
+    "id": "bit-f",
+    "line": "BX",
+    "name": "F",
+    "full_name": "Flat",
+    "abbreviation": "F",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-f-std",
+        "release_code": "BX-01",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/F/F 1 B01.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-rarebeybattle-1",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Bit/F/F 2 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-bx07-2",
+        "release_code": "BX-07",
+        "name": "BX-07",
+        "image": "https://bey-library.vercel.app/Bit/F/F 3 B07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-bx16-3",
+        "release_code": "BX-16",
+        "name": "BX-16",
+        "image": "https://bey-library.vercel.app/Bit/F/F 4 B16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-bx17-4",
+        "release_code": "BX-17",
+        "name": "BX-17",
+        "image": "https://bey-library.vercel.app/Bit/F/F 5 B17.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-bx20-5",
+        "release_code": "BX-20",
+        "name": "BX-20",
+        "image": "https://bey-library.vercel.app/Bit/F/F 6 B20.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-bx24-6",
+        "release_code": "BX-24",
+        "name": "BX-24",
+        "image": "https://bey-library.vercel.app/Bit/F/F 7 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-bx00-7",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/F/F 8 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-corocorocomic-8",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Bit/F/F 9 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-bx37-9",
+        "release_code": "BX-37",
+        "name": "BX-37",
+        "image": "https://bey-library.vercel.app/Bit/F/F 10 B37.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-rarebeybattle-10",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Bit/F/F 11 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-ux12-11",
+        "release_code": "UX-12",
+        "name": "UX-12",
+        "image": "https://bey-library.vercel.app/Bit/F/F 12 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-collab-12",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/F/F 13 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-collab-13",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/F/F 14 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-collab-14",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/F/F 15 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-sushirover-15",
+        "release_code": "",
+        "name": "Sushiro Ver.",
+        "image": "https://bey-library.vercel.app/Bit/F/F 16 Sushi.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-cx08-16",
+        "release_code": "CX-08",
+        "name": "CX-08",
+        "image": "https://bey-library.vercel.app/Bit/F/F 17 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-limited-17",
+        "release_code": "",
+        "name": "Limited",
+        "image": "https://bey-library.vercel.app/Bit/F/F 18 LD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-f-bx48-18",
+        "release_code": "BX-48",
+        "name": "BX-48",
+        "image": "https://bey-library.vercel.app/Bit/F/F 19 B48.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-t",
+    "line": "BX",
+    "name": "T",
+    "full_name": "Taper",
+    "abbreviation": "T",
+    "bey_type": "balance",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-t-std",
+        "release_code": "BX-02",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/T/T 1 B02.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-t-bx00-1",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/T/T 2 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-t-bx07-2",
+        "release_code": "BX-07",
+        "name": "BX-07",
+        "image": "https://bey-library.vercel.app/Bit/T/T 3 B07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-t-bx14-3",
+        "release_code": "BX-14",
+        "name": "BX-14",
+        "image": "https://bey-library.vercel.app/Bit/T/T 4 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-t-bx20-4",
+        "release_code": "BX-20",
+        "name": "BX-20",
+        "image": "https://bey-library.vercel.app/Bit/T/T 5 B20.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-t-bx24-5",
+        "release_code": "BX-24",
+        "name": "BX-24",
+        "image": "https://bey-library.vercel.app/Bit/T/T 6 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-t-bx00-6",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/T/T 7 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-t-bx46-7",
+        "release_code": "BX-46",
+        "name": "BX-46",
+        "image": "https://bey-library.vercel.app/Bit/T/T 8 B46.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-b",
+    "line": "BX",
+    "name": "B",
+    "full_name": "Ball",
+    "abbreviation": "B",
+    "bey_type": "stamina",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-b-std",
+        "release_code": "BX-03",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/B/B 1 B03.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-b-bx05-1",
+        "release_code": "BX-05",
+        "name": "BX-05",
+        "image": "https://bey-library.vercel.app/Bit/B/B 2 B05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-b-bx08-2",
+        "release_code": "BX-08",
+        "name": "BX-08",
+        "image": "https://bey-library.vercel.app/Bit/B/B 3 B08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-b-bx14-3",
+        "release_code": "BX-14",
+        "name": "BX-14",
+        "image": "https://bey-library.vercel.app/Bit/B/B 4 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-b-bx17-4",
+        "release_code": "BX-17",
+        "name": "BX-17",
+        "image": "https://bey-library.vercel.app/Bit/B/B 5 B17.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-b-bx35-5",
+        "release_code": "BX-35",
+        "name": "BX-35",
+        "image": "https://bey-library.vercel.app/Bit/B/B 6 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-b-ux10-6",
+        "release_code": "UX-10",
+        "name": "UX-10",
+        "image": "https://bey-library.vercel.app/Bit/B/B 7 U10.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-b-collab-7",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/B/B 8 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-b-collab-8",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/B/B 9 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-b-collab-9",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/B/B 10 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-b-ux16-10",
+        "release_code": "UX-16",
+        "name": "UX-16",
+        "image": "https://bey-library.vercel.app/Bit/B/B 11 U16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-b-ux16-11",
+        "release_code": "UX-16",
+        "name": "UX-16",
+        "image": "https://bey-library.vercel.app/Bit/B/B 12 U16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-b-ux16-12",
+        "release_code": "UX-16",
+        "name": "UX-16",
+        "image": "https://bey-library.vercel.app/Bit/B/B 13 U16.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-n",
+    "line": "BX",
+    "name": "N",
+    "full_name": "Needle",
+    "abbreviation": "N",
+    "bey_type": "defense",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-n-std",
+        "release_code": "BX-04",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/N/N 1 B04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-n-bx06-1",
+        "release_code": "BX-06",
+        "name": "BX-06",
+        "image": "https://bey-library.vercel.app/Bit/N/N 2 B06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-n-bx08-2",
+        "release_code": "BX-08",
+        "name": "BX-08",
+        "image": "https://bey-library.vercel.app/Bit/N/N 3 B08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-n-bx14-3",
+        "release_code": "BX-14",
+        "name": "BX-14",
+        "image": "https://bey-library.vercel.app/Bit/N/N 4 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-n-bx21-4",
+        "release_code": "BX-21",
+        "name": "BX-21",
+        "image": "https://bey-library.vercel.app/Bit/N/N 5 B21.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-n-ux12-5",
+        "release_code": "UX-12",
+        "name": "UX-12",
+        "image": "https://bey-library.vercel.app/Bit/N/N 6 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-n-collab-6",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/N/N 7 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-n-collab-7",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/N/N 8 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-n-collab-8",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/N/N 9 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-n-g3p-9",
+        "release_code": "",
+        "name": "G3P",
+        "image": "https://bey-library.vercel.app/Bit/N/N 10 G3P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-n-ux00-10",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Bit/N/N 11 U00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-hn",
+    "line": "BX",
+    "name": "HN",
+    "full_name": "High Needle",
+    "abbreviation": "HN",
+    "bey_type": "defense",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-hn-std",
+        "release_code": "BX-13",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/HN/HN 1 B13.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-hn-bx16-1",
+        "release_code": "BX-16",
+        "name": "BX-16",
+        "image": "https://bey-library.vercel.app/Bit/HN/HN 2 B16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-hn-bx24-2",
+        "release_code": "BX-24",
+        "name": "BX-24",
+        "image": "https://bey-library.vercel.app/Bit/HN/HN 3 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-hn-bx36-3",
+        "release_code": "BX-36",
+        "name": "BX-36",
+        "image": "https://bey-library.vercel.app/Bit/HN/HN 4 B36.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-hn-cx11-4",
+        "release_code": "CX-11",
+        "name": "CX-11",
+        "image": "https://bey-library.vercel.app/Bit/HN/HN 5 C11.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-lf",
+    "line": "BX",
+    "name": "LF",
+    "full_name": "Low Flat",
+    "abbreviation": "LF",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-lf-std",
+        "release_code": "BX-14",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/LF/LF 1 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-lf-bx14-1",
+        "release_code": "BX-14",
+        "name": "BX-14",
+        "image": "https://bey-library.vercel.app/Bit/LF/LF 2 BX14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-lf-bx14-2",
+        "release_code": "BX-14",
+        "name": "BX-14",
+        "image": "https://bey-library.vercel.app/Bit/LF/LF 3 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-lf-bx21-3",
+        "release_code": "BX-21",
+        "name": "BX-21",
+        "image": "https://bey-library.vercel.app/Bit/LF/LF 4 B21.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-lf-ux05-4",
+        "release_code": "UX-05",
+        "name": "UX-05",
+        "image": "https://bey-library.vercel.app/Bit/LF/LF 5 U05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-lf-gamepackage-5",
+        "release_code": "",
+        "name": "Game Package",
+        "image": "https://bey-library.vercel.app/Bit/LF/LF 6 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-lf-cx05-6",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Bit/LF/LF 7 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-lf-ux00-7",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Bit/LF/LF 8 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-lf-corocorocomic-8",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Bit/LF/LF 9 U00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-p",
+    "line": "BX",
+    "name": "P",
+    "full_name": "Point",
+    "abbreviation": "P",
+    "bey_type": "balance",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-p-std",
+        "release_code": "BX-15",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/P/P 1 B15.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-p-bx00-1",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/P/P 2 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-p-bx00-2",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/P/P 3 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-p-bx31-3",
+        "release_code": "BX-31",
+        "name": "BX-31",
+        "image": "https://bey-library.vercel.app/Bit/P/P 4 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-p-ux10-4",
+        "release_code": "UX-10",
+        "name": "UX-10",
+        "image": "https://bey-library.vercel.app/Bit/P/P 5 U10.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-p-collab-5",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/P/P 6 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-p-collab-6",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/P/P 7 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-p-collab-7",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/P/P 8 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-p-campaign-8",
+        "release_code": "",
+        "name": "Campaign",
+        "image": "https://bey-library.vercel.app/Bit/P/P 9 CP.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-o",
+    "line": "BX",
+    "name": "O",
+    "full_name": "Orb",
+    "abbreviation": "O",
+    "bey_type": "stamina",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-o-std",
+        "release_code": "BX-16",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/O/O 1 B16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-o-bx27-1",
+        "release_code": "BX-27",
+        "name": "BX-27",
+        "image": "https://bey-library.vercel.app/Bit/O/O 2 B27.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-o-bx31-2",
+        "release_code": "BX-31",
+        "name": "BX-31",
+        "image": "https://bey-library.vercel.app/Bit/O/O 3 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-o-bx39-3",
+        "release_code": "BX-39",
+        "name": "BX-39",
+        "image": "https://bey-library.vercel.app/Bit/O/O 4 B39.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-o-cx05-4",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Bit/O/O 5 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-o-campaign-5",
+        "release_code": "",
+        "name": "Campaign",
+        "image": "https://bey-library.vercel.app/Bit/O/O 6 CP.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-o-cx-6",
+        "release_code": "CX-??",
+        "name": "CX-??",
+        "image": "",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-r",
+    "line": "BX",
+    "name": "R",
+    "full_name": "Rush",
+    "abbreviation": "R",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 10,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-r-std",
+        "release_code": "BX-20",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/R/R 1 B20.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-r-bx35-1",
+        "release_code": "BX-35",
+        "name": "BX-35",
+        "image": "https://bey-library.vercel.app/Bit/R/R 2 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-r-ux10-2",
+        "release_code": "UX-10",
+        "name": "UX-10",
+        "image": "https://bey-library.vercel.app/Bit/R/R 3 U10.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-r-bx46-3",
+        "release_code": "BX-46",
+        "name": "BX-46",
+        "image": "https://bey-library.vercel.app/Bit/R/R 4 B46.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-ht",
+    "line": "BX",
+    "name": "HT",
+    "full_name": "High Taper",
+    "abbreviation": "HT",
+    "bey_type": "balance",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-ht-std",
+        "release_code": "BX-21",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/HT/HT 1 B21.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-ht-bx27-1",
+        "release_code": "BX-27",
+        "name": "BX-27",
+        "image": "https://bey-library.vercel.app/Bit/HT/HT 2 B27.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-ht-bx27-2",
+        "release_code": "BX-27",
+        "name": "BX-27",
+        "image": "https://bey-library.vercel.app/Bit/HT/HT 3 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-ht-cx08-3",
+        "release_code": "CX-08",
+        "name": "CX-08",
+        "image": "https://bey-library.vercel.app/Bit/HT/HT 4 C08.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-s",
+    "line": "BX",
+    "name": "S",
+    "full_name": "Spike",
+    "abbreviation": "S",
+    "bey_type": "defense",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-s-std",
+        "release_code": "BX-19",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/S/S 1 B19.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-s-bx31-1",
+        "release_code": "BX-31",
+        "name": "BX-31",
+        "image": "https://bey-library.vercel.app/Bit/S/S 2 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-s-ux07-2",
+        "release_code": "UX-07",
+        "name": "UX-07",
+        "image": "https://bey-library.vercel.app/Bit/S/S 3 U07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-s-bx48-3",
+        "release_code": "BX-48",
+        "name": "BX-48",
+        "image": "https://bey-library.vercel.app/Bit/S/S 4 B48.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-gf",
+    "line": "BX",
+    "name": "GF",
+    "full_name": "Gear Flat",
+    "abbreviation": "GF",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-gf-std",
+        "release_code": "BX-23",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/GF/GF 1 B23.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gf-ux07-1",
+        "release_code": "UX-07",
+        "name": "UX-07",
+        "image": "https://bey-library.vercel.app/Bit/GF/GF 2 U07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gf-bx00-2",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/GF/GF 3 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gf-bx00-3",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/GF/GF 4 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gf-corocorocomic-4",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Bit/GF/GF 5 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gf-ux15-5",
+        "release_code": "UX-15",
+        "name": "UX-15",
+        "image": "https://bey-library.vercel.app/Bit/GF/GF 6 U15.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gf-bx00-6",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/GF/GF 7 B00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-gb",
+    "line": "BX",
+    "name": "GB",
+    "full_name": "Gear Ball",
+    "abbreviation": "GB",
+    "bey_type": "stamina",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-gb-std",
+        "release_code": "BX-24",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/GB/GB 1 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gb-bx24-1",
+        "release_code": "BX-24",
+        "name": "BX-24",
+        "image": "https://bey-library.vercel.app/Bit/GB/GB 2 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gb-bx24-2",
+        "release_code": "BX-24",
+        "name": "BX-24",
+        "image": "https://bey-library.vercel.app/Bit/GB/GB 3 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gb-bx36-3",
+        "release_code": "BX-36",
+        "name": "BX-36",
+        "image": "https://bey-library.vercel.app/Bit/GB/GB 4 B36.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gb-ux12-4",
+        "release_code": "UX-12",
+        "name": "UX-12",
+        "image": "https://bey-library.vercel.app/Bit/GB/GB 5 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gb-bx48-5",
+        "release_code": "BX-48",
+        "name": "BX-48",
+        "image": "https://bey-library.vercel.app/Bit/GB/GB 6 B48.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-gp",
+    "line": "BX",
+    "name": "GP",
+    "full_name": "Gear Point",
+    "abbreviation": "GP",
+    "bey_type": "balance",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-gp-std",
+        "release_code": "BX-26",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/GP/GP 1 B26.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gp-ux05-1",
+        "release_code": "UX-05",
+        "name": "UX-05",
+        "image": "https://bey-library.vercel.app/Bit/GP/GP 2 U05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gp-bx00-2",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/GP/GP 3 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gp-bx39-3",
+        "release_code": "BX-39",
+        "name": "BX-39",
+        "image": "https://bey-library.vercel.app/Bit/GP/GP 4 B39.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gp-bx00-4",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/GF/GP 5 B00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-gn",
+    "line": "BX",
+    "name": "GN",
+    "full_name": "Gear Needle",
+    "abbreviation": "GN",
+    "bey_type": "defense",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-gn-std",
+        "release_code": "BX-27",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/GN/GN 1 B27.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gn-ux06-1",
+        "release_code": "UX-06",
+        "name": "UX-06",
+        "image": "https://bey-library.vercel.app/Bit/GN/GN 2 U06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gn-bx00-2",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/GN/GN 3 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gn-dmmlottery-3",
+        "release_code": "",
+        "name": "DMM Lottery",
+        "image": "https://bey-library.vercel.app/Bit/GN/GN 4 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-gn-dmmlottery-4",
+        "release_code": "",
+        "name": "DMM Lottery",
+        "image": "https://bey-library.vercel.app/Bit/GN/GN 5 B00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-a",
+    "line": "BX",
+    "name": "A",
+    "full_name": "Accel",
+    "abbreviation": "A",
+    "bey_type": "attack",
+    "weight": 3.0,
+    "gears": 16,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-a-std",
+        "release_code": "UX-01",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/A/A 1 U01.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-ux04-1",
+        "release_code": "UX-04",
+        "name": "UX-04",
+        "image": "https://bey-library.vercel.app/Bit/A/A 2 U04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-ux00-2",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Bit/A/A 0 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-rarebeybattle-3",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Bit/A/A 3 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-ux00-4",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Bit/A/A 4 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-parklimited-5",
+        "release_code": "",
+        "name": "Park Limited",
+        "image": "https://bey-library.vercel.app/Bit/A/A 5 LTD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-parklimited-6",
+        "release_code": "",
+        "name": "Park Limited",
+        "image": "https://bey-library.vercel.app/Bit/A/A 6 LTD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-parklimited-7",
+        "release_code": "",
+        "name": "Park Limited",
+        "image": "https://bey-library.vercel.app/Bit/A/A 7 LTD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-parklimited-8",
+        "release_code": "",
+        "name": "Park Limited",
+        "image": "https://bey-library.vercel.app/Bit/A/A 8 LTD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-parklimited-9",
+        "release_code": "",
+        "name": "Park Limited",
+        "image": "https://bey-library.vercel.app/Bit/A/A 9 LTD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-parklimited-10",
+        "release_code": "",
+        "name": "Park Limited",
+        "image": "https://bey-library.vercel.app/Bit/A/A 10 LTD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-gamepackage-11",
+        "release_code": "",
+        "name": "Game Package",
+        "image": "https://bey-library.vercel.app/Bit/A/A 11 C00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-collab-12",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/A/A 12 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-a-ux00-13",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Bit/A/A 13 U00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-h",
+    "line": "BX",
+    "name": "H",
+    "full_name": "Hexa",
+    "abbreviation": "H",
+    "bey_type": "balance",
+    "weight": 3.0,
+    "gears": 16,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-h-std",
+        "release_code": "UX-02",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/H/H 1 U02.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-h-bx35-1",
+        "release_code": "BX-35",
+        "name": "BX-35",
+        "image": "https://bey-library.vercel.app/Bit/H/H 2 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-h-ux00-2",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Bit/H/H 3 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-h-ux12-3",
+        "release_code": "UX-12",
+        "name": "UX-12",
+        "image": "https://bey-library.vercel.app/Bit/H/H 4 U12.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-db",
+    "line": "BX",
+    "name": "DB",
+    "full_name": "Disc Ball",
+    "abbreviation": "DB",
+    "bey_type": "stamina",
+    "weight": 3.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-db-std",
+        "release_code": "UX-03",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/DB/DB 1 U03.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-db-ux04-1",
+        "release_code": "UX-04",
+        "name": "UX-04",
+        "image": "https://bey-library.vercel.app/Bit/DB/DB 2 U04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-db-g3prize-2",
+        "release_code": "",
+        "name": "G3 Prize",
+        "image": "https://bey-library.vercel.app/Bit/DB/DB 3 G3P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-db-bx00-3",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/DB/DB 4 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-db-cx06-4",
+        "release_code": "CX-06",
+        "name": "CX-06",
+        "image": "https://bey-library.vercel.app/Bit/DB/DB 5 C06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-db-ux00-5",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Bit/DB/DB 6 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-db-cx10-6",
+        "release_code": "CX-10",
+        "name": "CX-10",
+        "image": "https://bey-library.vercel.app/Bit/DB/DB 7 C10.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-q",
+    "line": "BX",
+    "name": "Q",
+    "full_name": "Quake",
+    "abbreviation": "Q",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-q-std",
+        "release_code": "BX-31",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/Q/Q 1 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-q-bx31-1",
+        "release_code": "BX-31",
+        "name": "BX-31",
+        "image": "https://bey-library.vercel.app/Bit/Q/Q 2 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-q-bx31-2",
+        "release_code": "BX-31",
+        "name": "BX-31",
+        "image": "https://bey-library.vercel.app/Bit/Q/Q 3 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-q-corocorocomic-3",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Bit/Q/Q 4 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-q-bx48-4",
+        "release_code": "BX-48",
+        "name": "BX-48",
+        "image": "https://bey-library.vercel.app/Bit/Q/Q 5 B48.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-mn",
+    "line": "BX",
+    "name": "MN",
+    "full_name": "Metal Needle",
+    "abbreviation": "MN",
+    "bey_type": "defense",
+    "weight": 3.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-mn-std",
+        "release_code": "UX-05",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/MN/MN 1 U05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-mn-ux10-1",
+        "release_code": "UX-10",
+        "name": "UX-10",
+        "image": "https://bey-library.vercel.app/Bit/MN/MN 2 U10.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-mn-cx08-2",
+        "release_code": "CX-08",
+        "name": "CX-08",
+        "image": "https://bey-library.vercel.app/Bit/MN/MN 3 C08.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-u",
+    "line": "BX",
+    "name": "U",
+    "full_name": "Unite",
+    "abbreviation": "U",
+    "bey_type": "balance",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-u-std",
+        "release_code": "BX-33",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/U/U 1 B33.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-u-cx06-1",
+        "release_code": "CX-06",
+        "name": "CX-06",
+        "image": "https://bey-library.vercel.app/Bit/U/U 2 C06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-u-collab-2",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Bit/U/U 3 Col.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-c",
+    "line": "BX",
+    "name": "C",
+    "full_name": "Cyclone",
+    "abbreviation": "C",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-c-std",
+        "release_code": "BX-34",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/C/C 1 B34.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-c-bx00-1",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/C/C 2 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-c-ux12-2",
+        "release_code": "UX-12",
+        "name": "UX-12",
+        "image": "https://bey-library.vercel.app/Bit/C/C 3 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-c-ux18-3",
+        "release_code": "UX-18",
+        "name": "UX-18",
+        "image": "https://bey-library.vercel.app/Bit/C/C 4 U18.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-d",
+    "line": "BX",
+    "name": "D",
+    "full_name": "Dot",
+    "abbreviation": "D",
+    "bey_type": "defense",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-d-std",
+        "release_code": "BX-35",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/D/D 1 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-d-bx35-1",
+        "release_code": "BX-35",
+        "name": "BX-35",
+        "image": "https://bey-library.vercel.app/Bit/D/D 2 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-d-bx35-2",
+        "release_code": "BX-35",
+        "name": "BX-35",
+        "image": "https://bey-library.vercel.app/Bit/D/D 3 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-d-bx00-3",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/D/D 4 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-d-bx39-4",
+        "release_code": "BX-39",
+        "name": "BX-39",
+        "image": "https://bey-library.vercel.app/Bit/D/D 5 B39.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-d-cx05-5",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Bit/D/D 6 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-d-cx05-6",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Bit/D/D 7 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-d-campaign-7",
+        "release_code": "",
+        "name": "Campaign",
+        "image": "https://bey-library.vercel.app/Bit/D/D 8 CP.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-g",
+    "line": "BX",
+    "name": "G",
+    "full_name": "Glide",
+    "abbreviation": "G",
+    "bey_type": "stamina",
+    "weight": 2.0,
+    "gears": 16,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-g-std",
+        "release_code": "UX-07",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/G/G 1 U07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-g-ux18-1",
+        "release_code": "UX-18",
+        "name": "UX-18",
+        "image": "https://bey-library.vercel.app/Bit/G/G 2 U18.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-e",
+    "line": "BX",
+    "name": "E",
+    "full_name": "Elevate",
+    "abbreviation": "E",
+    "bey_type": "balance",
+    "weight": 3.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-e-std",
+        "release_code": "BX-36",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/E/E 1 B36.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-e-rarebeybattle-1",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Bit/E/E 2 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-e-ux12-2",
+        "release_code": "UX-12",
+        "name": "UX-12",
+        "image": "https://bey-library.vercel.app/Bit/E/E 3 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-e-bx48-3",
+        "release_code": "BX-48",
+        "name": "BX-48",
+        "image": "https://bey-library.vercel.app/Bit/E/E 4 B48.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-fb",
+    "line": "BX",
+    "name": "FB",
+    "full_name": "Free Ball",
+    "abbreviation": "FB",
+    "bey_type": "stamina",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-fb-std",
+        "release_code": "UX-08",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/FB/FB 1 U08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-fb-cx11-1",
+        "release_code": "CX-11",
+        "name": "CX-11",
+        "image": "https://bey-library.vercel.app/Bit/FB/FB 2 C11.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-bs",
+    "line": "BX",
+    "name": "BS",
+    "full_name": "Bound Spike",
+    "abbreviation": "BS",
+    "bey_type": "defense",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-bs-std",
+        "release_code": "UX-10",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/BS/BS 1 U10.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-bs-bx44-1",
+        "release_code": "BX-44",
+        "name": "BX-44",
+        "image": "https://bey-library.vercel.app/Bit/BS/BS 2 B44.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-bs-rarebeybattle-2",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Bit/BS/BS 3 U00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-ra",
+    "line": "BX",
+    "name": "RA",
+    "full_name": "Rubber Accel",
+    "abbreviation": "RA",
+    "bey_type": "attack",
+    "weight": 3.0,
+    "gears": 16,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-ra-std",
+        "release_code": "UX-10",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/RA/RA 1 U10.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-ra-25thanniversary-1",
+        "release_code": "",
+        "name": "25th Anniversary",
+        "image": "https://bey-library.vercel.app/Bit/RA/RA 2 25th.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-ra-25thanniversary-2",
+        "release_code": "",
+        "name": "25th Anniversary",
+        "image": "https://bey-library.vercel.app/Bit/RA/RA 3 25th.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-ra-25thanniversary-3",
+        "release_code": "",
+        "name": "25th Anniversary",
+        "image": "https://bey-library.vercel.app/Bit/RA/RA 4 25th.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-l",
+    "line": "BX",
+    "name": "L",
+    "full_name": "Level",
+    "abbreviation": "L",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 16,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-l-std",
+        "release_code": "UX-09",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/L/L 1 U09.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-l-corocorocomic-1",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "",
+        "color": null
+      },
+      {
+        "variant_id": "bit-l-ux15-2",
+        "release_code": "UX-15",
+        "name": "UX-15",
+        "image": "https://bey-library.vercel.app/Bit/L/L 3 U15.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-tp",
+    "line": "BX",
+    "name": "TP",
+    "full_name": "Trans Point",
+    "abbreviation": "TP",
+    "bey_type": "balance",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "Height Change",
+    "variants": [
+      {
+        "variant_id": "bit-tp-std",
+        "release_code": "BX-38",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/TP/TP 1 B38.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-tp-ux18-1",
+        "release_code": "UX-18",
+        "name": "UX-18",
+        "image": "https://bey-library.vercel.app/Bit/TP/TP 2 U18.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-lr",
+    "line": "BX",
+    "name": "LR",
+    "full_name": "Low Rush",
+    "abbreviation": "LR",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 10,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-lr-std",
+        "release_code": "UX-11",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/LR/LR 1 U11.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-lr-ux18-1",
+        "release_code": "UX-18",
+        "name": "UX-18",
+        "image": "https://bey-library.vercel.app/Bit/LR/LR 2 U18.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-un",
+    "line": "BX",
+    "name": "UN",
+    "full_name": "Under Needle",
+    "abbreviation": "UN",
+    "bey_type": "defense",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-un-std",
+        "release_code": "UX-13",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/UN/UN 1 U13.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-un-variant-1",
+        "release_code": "",
+        "name": "Variant",
+        "image": "https://bey-library.vercel.app/Bit/UN/UN 2 C14.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-v",
+    "line": "BX",
+    "name": "V",
+    "full_name": "Vortex",
+    "abbreviation": "V",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-v-std",
+        "release_code": "CX-01",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/V/V 1 C01.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-v-cx04-1",
+        "release_code": "CX-04",
+        "name": "CX-04",
+        "image": "https://bey-library.vercel.app/Bit/V/V 2 C04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-v-g1prize-2",
+        "release_code": "",
+        "name": "G1 Prize",
+        "image": "https://bey-library.vercel.app/Bit/V/V 3 G1P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-v-g1prize-3",
+        "release_code": "",
+        "name": "G1 Prize",
+        "image": "https://bey-library.vercel.app/Bit/V/V 4 G1P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-v-g1prize-4",
+        "release_code": "",
+        "name": "G1 Prize",
+        "image": "https://bey-library.vercel.app/Bit/V/V 5 G1P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-v-rarebeybattle-5",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Bit/V/V 6 C00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-v-campaign-6",
+        "release_code": "",
+        "name": "Campaign",
+        "image": "https://bey-library.vercel.app/Bit/V/V 8 CP.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-v-limited-7",
+        "release_code": "",
+        "name": "Limited",
+        "image": "https://bey-library.vercel.app/Bit/V/V 9 LD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-v-gplimited-8",
+        "release_code": "",
+        "name": "GP Limited",
+        "image": "",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-lo",
+    "line": "BX",
+    "name": "LO",
+    "full_name": "Low Orb",
+    "abbreviation": "LO",
+    "bey_type": "stamina",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-lo-std",
+        "release_code": "CX-02",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/LO/LO 1 C02.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-lo-cx00-1",
+        "release_code": "CX-00",
+        "name": "CX-00",
+        "image": "https://bey-library.vercel.app/Bit/LO/LO 2 C00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-w",
+    "line": "BX",
+    "name": "W",
+    "full_name": "Wedge",
+    "abbreviation": "W",
+    "bey_type": "defense",
+    "weight": 2.0,
+    "gears": 10,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-w-std",
+        "release_code": "CX-03",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/W/W 1 C03.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-w-cx04-1",
+        "release_code": "CX-04",
+        "name": "CX-04",
+        "image": "https://bey-library.vercel.app/Bit/W/W 2 C04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-w-g3prize-2",
+        "release_code": "",
+        "name": "G3 Prize",
+        "image": "https://bey-library.vercel.app/Bit/W/W 3 G3P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-w-ux18-3",
+        "release_code": "UX-18",
+        "name": "UX-18",
+        "image": "https://bey-library.vercel.app/Bit/W/W 4 U18.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-w-ux18-4",
+        "release_code": "UX-18",
+        "name": "UX-18",
+        "image": "https://bey-library.vercel.app/Bit/W/W 5 U18.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-k",
+    "line": "BX",
+    "name": "K",
+    "full_name": "Kick",
+    "abbreviation": "K",
+    "bey_type": "balance",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-k-std",
+        "release_code": "CX-05",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/K/K 1 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-k-cx05-1",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Bit/K/K 2 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-k-cx05-2",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Bit/K/K 3 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-k-corocorocomic-3",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Bit/K/K 4 C00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-z",
+    "line": "BX",
+    "name": "Z",
+    "full_name": "Zap",
+    "abbreviation": "Z",
+    "bey_type": "balance",
+    "weight": 2.0,
+    "gears": 16,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-z-std",
+        "release_code": "UX-14",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/Z/Z 1 U14.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-gr",
+    "line": "BX",
+    "name": "GR",
+    "full_name": "Gear Rush",
+    "abbreviation": "GR",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 10,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-gr-std",
+        "release_code": "CX-06",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/GR/GR 1 C06.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-tr",
+    "line": "BX",
+    "name": "Tr",
+    "full_name": "Turbo",
+    "abbreviation": "TR",
+    "bey_type": "attack",
+    "weight": 12.0,
+    "gears": 16,
+    "burst_resistance_type": "Simple",
+    "gimmick": "Boost up speed in mid-battle",
+    "variants": [
+      {
+        "variant_id": "bit-tr-std",
+        "release_code": "CX-07",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Hybird Part/Tr 1 C07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-tr-corocoroevent-1",
+        "release_code": "",
+        "name": "CoroCoro Event",
+        "image": "https://bey-library.vercel.app/Hybird Part/Tr 2 C00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-wb",
+    "line": "BX",
+    "name": "WB",
+    "full_name": "Wall Ball",
+    "abbreviation": "WB",
+    "bey_type": "stamina",
+    "weight": 3.0,
+    "gears": 16,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-wb-std",
+        "release_code": "CX-08",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/WB/WB 1 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-wb-cx08-1",
+        "release_code": "CX-08",
+        "name": "CX-08",
+        "image": "https://bey-library.vercel.app/Bit/WB/WB 2 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-wb-cx08-2",
+        "release_code": "CX-08",
+        "name": "CX-08",
+        "image": "https://bey-library.vercel.app/Bit/WB/WB 3 C08.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-uf",
+    "line": "BX",
+    "name": "UF",
+    "full_name": "Under Flat",
+    "abbreviation": "UF",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-uf-std",
+        "release_code": "UX-15",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/UF/UF 1 U15.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-m",
+    "line": "BX",
+    "name": "M",
+    "full_name": "Merge",
+    "abbreviation": "M",
+    "bey_type": "balance",
+    "weight": 3.0,
+    "gears": 18,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-m-std",
+        "release_code": "BX-45",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/M/M 1 B45.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-tk",
+    "line": "BX",
+    "name": "TK",
+    "full_name": "Trans Kick",
+    "abbreviation": "TK",
+    "bey_type": "balance",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "Height Change",
+    "variants": [
+      {
+        "variant_id": "bit-tk-std",
+        "release_code": "CX-09",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/TK/TK 1 C09.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-op",
+    "line": "BX",
+    "name": "Op",
+    "full_name": "Operate",
+    "abbreviation": "OP",
+    "bey_type": "balance",
+    "weight": 14.0,
+    "gears": 14,
+    "burst_resistance_type": "Simple",
+    "gimmick": "Change mode between attack and defense",
+    "variants": [
+      {
+        "variant_id": "bit-op-std",
+        "release_code": "CX-11",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Hybird Part/Op 1 C11.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-j",
+    "line": "BX",
+    "name": "J",
+    "full_name": "Jolt",
+    "abbreviation": "J",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 16,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-j-std",
+        "release_code": "UX-18",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/J/J 1 U17.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-ww",
+    "line": "BX",
+    "name": "WW",
+    "full_name": "Wall Wedge",
+    "abbreviation": "WW",
+    "bey_type": "defense",
+    "weight": 4.0,
+    "gears": 16,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-ww-std",
+        "release_code": "CX-12",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/WW/WW 1 C12.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-i",
+    "line": "BX",
+    "name": "I",
+    "full_name": "Ignition",
+    "abbreviation": "I",
+    "bey_type": "attack",
+    "weight": 4.0,
+    "gears": 16,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-i-std",
+        "release_code": "CX-13",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/I/I 1 C13.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-i-cx16-1",
+        "release_code": "CX-16",
+        "name": "CX-16",
+        "image": "https://bey-library.vercel.app/Bit/I/I 2 C16.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-yielding",
+    "line": "BX",
+    "name": "Yielding",
+    "full_name": "Yielding",
+    "abbreviation": "YIELDING",
+    "bey_type": "stamina",
+    "weight": 4.0,
+    "gears": 32,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-yielding-std",
+        "release_code": "CX-15",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/Y/Y 1 C15.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "bit-ftbn",
+    "line": "BX",
+    "name": "F/T/B/N",
+    "full_name": "Bit Set",
+    "abbreviation": "F/T/B/N",
+    "bey_type": "balance",
+    "weight": 0.0,
+    "gears": 12,
+    "burst_resistance_type": "",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-ftbn-std",
+        "release_code": "BX-Rare Bey Battle",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Bit/Rare Bit 1 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "bit-ftbn-bx00-1",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Bit/Rare Bit 2 B00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burstResistance": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  }
+]

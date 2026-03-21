@@ -1,0 +1,201 @@
+[
+  {
+    "id": "bx-01",
+    "name": "Starter DranSword 3-60F",
+    "manufacturer": "takara_tomy",
+    "releaseCode": "BX-01",
+    "type": "starter",
+    "beys": ["dransword-3-60-flat"],
+    "parts": [],
+    "accessories": ["string_launcher", "winder"],
+    "price": {
+      "jpy": 1980,
+      "usd": 17.99,
+      "eur": 16.99
+    },
+    "releaseDate": "2023-07-15",
+    "image": null,
+    "buyUrl": null,
+    "isAvailable": true
+  },
+  {
+    "id": "bx-02",
+    "name": "Starter HellsScythe 4-60T",
+    "manufacturer": "takara_tomy",
+    "releaseCode": "BX-02",
+    "type": "starter",
+    "beys": ["hellsscythe-4-60-taper"],
+    "parts": [],
+    "accessories": ["string_launcher", "winder"],
+    "price": {
+      "jpy": 1980,
+      "usd": 17.99,
+      "eur": 16.99
+    },
+    "releaseDate": "2023-07-15",
+    "image": null,
+    "buyUrl": null,
+    "isAvailable": true
+  },
+  {
+    "id": "bx-03",
+    "name": "Starter WizardArrow 4-80B",
+    "manufacturer": "takara_tomy",
+    "releaseCode": "BX-03",
+    "type": "starter",
+    "beys": ["wizardarrow-4-80-ball"],
+    "parts": [],
+    "accessories": ["string_launcher", "winder"],
+    "price": {
+      "jpy": 1980,
+      "usd": 17.99,
+      "eur": 16.99
+    },
+    "releaseDate": "2023-07-15",
+    "image": null,
+    "buyUrl": null,
+    "isAvailable": true
+  },
+  {
+    "id": "bx-04",
+    "name": "Starter KnightShield 3-80N",
+    "manufacturer": "takara_tomy",
+    "releaseCode": "BX-04",
+    "type": "booster",
+    "beys": ["knightshield-3-80-needle"],
+    "parts": [],
+    "accessories": [],
+    "price": {
+      "jpy": 1100,
+      "usd": 11.99,
+      "eur": 10.99
+    },
+    "releaseDate": "2023-07-15",
+    "image": null,
+    "buyUrl": null,
+    "isAvailable": true
+  },
+  {
+    "id": "bx-13",
+    "name": "Booster KnightLance 4-80HN",
+    "manufacturer": "takara_tomy",
+    "releaseCode": "BX-13",
+    "type": "booster",
+    "beys": ["knightlance-4-80-highneedle"],
+    "parts": [],
+    "accessories": [],
+    "price": {
+      "jpy": 1100,
+      "usd": 11.99,
+      "eur": 10.99
+    },
+    "releaseDate": "2023-10-21",
+    "image": null,
+    "buyUrl": null,
+    "isAvailable": true
+  },
+  {
+    "id": "bx-14",
+    "name": "Random Booster Vol. 1",
+    "manufacturer": "takara_tomy",
+    "releaseCode": "BX-14",
+    "type": "random_booster",
+    "beys": [
+      "sharkedge-3-60-lowflat",
+      "hellsscythe-4-60-taper",
+      "wizardarrow-4-80-needle",
+      "knightshield-3-80-needle",
+      "sharkedge-4-80-needle",
+      "sharkedge-3-80-flat"
+    ],
+    "parts": [],
+    "accessories": [],
+    "price": {
+      "jpy": 1100,
+      "usd": 11.99,
+      "eur": 10.99
+    },
+    "releaseDate": "2023-10-21",
+    "image": null,
+    "buyUrl": null,
+    "isAvailable": true
+  },
+  {
+    "id": "bx-15",
+    "name": "Starter LeonClaw 5-60P",
+    "manufacturer": "takara_tomy",
+    "releaseCode": "BX-15",
+    "type": "starter",
+    "beys": ["leonclaw-5-60-point"],
+    "parts": [],
+    "accessories": ["string_launcher", "winder"],
+    "price": {
+      "jpy": 1980,
+      "usd": 17.99,
+      "eur": 16.99
+    },
+    "releaseDate": "2023-11-18",
+    "image": null,
+    "buyUrl": null,
+    "isAvailable": true
+  },
+  {
+    "id": "bx-23",
+    "name": "Starter PhoenixWing 9-60GF",
+    "manufacturer": "takara_tomy",
+    "releaseCode": "BX-23",
+    "type": "starter",
+    "beys": ["phoenixwing-9-60-gearflat"],
+    "parts": [],
+    "accessories": ["string_launcher", "winder"],
+    "price": {
+      "jpy": 1980,
+      "usd": 17.99,
+      "eur": 16.99
+    },
+    "releaseDate": "2024-01-27",
+    "image": null,
+    "buyUrl": null,
+    "isAvailable": true
+  },
+  {
+    "id": "bx-07",
+    "name": "3on3 Deck Set",
+    "manufacturer": "takara_tomy",
+    "releaseCode": "BX-07",
+    "type": "set",
+    "beys": [
+      "dransword-3-60-flat",
+      "hellsscythe-4-60-taper",
+      "wizardarrow-4-80-ball"
+    ],
+    "parts": [],
+    "accessories": ["string_launcher", "winder", "stadium_mini"],
+    "price": {
+      "jpy": 6380,
+      "usd": 54.99,
+      "eur": 49.99
+    },
+    "releaseDate": "2023-08-12",
+    "image": null,
+    "buyUrl": null,
+    "isAvailable": false
+  },
+  {
+    "id": "hbx-01",
+    "name": "Hasbro Starter Pack Sword Dran",
+    "manufacturer": "hasbro",
+    "releaseCode": "HBX-01",
+    "type": "starter",
+    "beys": ["dransword-3-60-flat"],
+    "parts": [],
+    "accessories": ["string_launcher"],
+    "price": {
+      "usd": 12.99
+    },
+    "releaseDate": "2024-03-01",
+    "image": null,
+    "buyUrl": null,
+    "isAvailable": true
+  }
+]

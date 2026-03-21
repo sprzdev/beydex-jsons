@@ -1,0 +1,489 @@
+[
+  {
+    "id": "assist-blade-sslash",
+    "line": "CX",
+    "name": "S (Slash)",
+    "weight": 4.0,
+    "high_level": 9,
+    "bey_type": "attack",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-sslash-std",
+        "release_code": "CX-01",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/S/S 1 C01.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-sslash-cx04-1",
+        "release_code": "CX-04",
+        "name": "CX-04",
+        "image": "https://bey-library.vercel.app/Assist Blade/S/S 2 C04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-sslash-corocorocomic-2",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Assist Blade/S/S 3 C00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-sslash-rarebeybattle-3",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Assist Blade/S/S 4 C00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-sslash-cx12-4",
+        "release_code": "CX-12",
+        "name": "CX-12",
+        "image": "https://bey-library.vercel.app/Assist Blade/S/S 5 C12.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-rround",
+    "line": "CX",
+    "name": "R (Round)",
+    "weight": 4.0,
+    "high_level": 10,
+    "bey_type": "stamina",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-rround-std",
+        "release_code": "CX-02",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/R/R 1 C02.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-rround-cx00-1",
+        "release_code": "CX-00",
+        "name": "CX-00",
+        "image": "https://bey-library.vercel.app/Assist Blade/R/R 2 C00.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-bbumper",
+    "line": "CX",
+    "name": "B (Bumper)",
+    "weight": 5.0,
+    "high_level": 10,
+    "bey_type": "defense",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-bbumper-std",
+        "release_code": "CX-03",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/B/B 1 C03.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-bbumper-cx04-1",
+        "release_code": "CX-04",
+        "name": "CX-04",
+        "image": "https://bey-library.vercel.app/Assist Blade/B/B 2 C04.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-tturn",
+    "line": "CX",
+    "name": "T (Turn)",
+    "weight": 6.0,
+    "high_level": 10,
+    "bey_type": "balance",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-tturn-std",
+        "release_code": "CX-05",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/T/T 1 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-tturn-cx05-1",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Assist Blade/T/T 2 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-tturn-cx00-2",
+        "release_code": "CX-00",
+        "name": "CX-00",
+        "image": "https://bey-library.vercel.app/Assist Blade/T/T 3 C00.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-ccharge",
+    "line": "CX",
+    "name": "C (Charge)",
+    "weight": 5.0,
+    "high_level": 10,
+    "bey_type": "defense",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-ccharge-std",
+        "release_code": "CX-05",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/C/C 1 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-ccharge-ux18-1",
+        "release_code": "UX-18",
+        "name": "UX-18",
+        "image": "https://bey-library.vercel.app/Assist Blade/C/C 2 U18.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-jjaggy",
+    "line": "CX",
+    "name": "J (Jaggy)",
+    "weight": 5.0,
+    "high_level": 9,
+    "bey_type": "attack",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-jjaggy-std",
+        "release_code": "CX-06",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/J/J 1 C06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-jjaggy-cx06-1",
+        "release_code": "CX-06",
+        "name": "CX-06",
+        "image": "https://bey-library.vercel.app/Assist Blade/J/J 2 C06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-jjaggy-cx06-2",
+        "release_code": "CX-06",
+        "name": "CX-06",
+        "image": "https://bey-library.vercel.app/Assist Blade/J/J 3 C06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-jjaggy-corocorocomic-3",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Assist Blade/J/J 4 C00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-jjaggy-ux15-4",
+        "release_code": "UX-15",
+        "name": "UX-15",
+        "image": "https://bey-library.vercel.app/Assist Blade/J/J 5 U15.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-aassault",
+    "line": "CX",
+    "name": "A (Assault)",
+    "weight": 5.0,
+    "high_level": 10,
+    "bey_type": "attack",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-aassault-std",
+        "release_code": "CX-07",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/A/A 1 C07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-aassault-corocoroevent-1",
+        "release_code": "",
+        "name": "CoroCoro Event",
+        "image": "https://bey-library.vercel.app/Assist Blade/A/A 2 C00.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-wwheel",
+    "line": "CX",
+    "name": "W (Wheel)",
+    "weight": 7.0,
+    "high_level": 10,
+    "bey_type": "stamina",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-wwheel-std",
+        "release_code": "CX-08",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/W/W 1 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-wwheel-cx08-1",
+        "release_code": "CX-08",
+        "name": "CX-08",
+        "image": "https://bey-library.vercel.app/Assist Blade/W/W 2 C08.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-mmassive",
+    "line": "CX",
+    "name": "M (Massive)",
+    "weight": 6.0,
+    "high_level": 10,
+    "bey_type": "balance",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-mmassive-std",
+        "release_code": "CX-08",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/M/M 1 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-mmassive-ux18-1",
+        "release_code": "UX-18",
+        "name": "UX-18",
+        "image": "https://bey-library.vercel.app/Assist Blade/M/M 2 U18.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-ddual",
+    "line": "CX",
+    "name": "D (Dual)",
+    "weight": 6.0,
+    "high_level": 10,
+    "bey_type": "balance",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-ddual-std",
+        "release_code": "CX-09",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/D/D 1 C09.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-ffree",
+    "line": "CX",
+    "name": "F (Free)",
+    "weight": 5.0,
+    "high_level": 10,
+    "bey_type": "stamina",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-ffree-std",
+        "release_code": "CX-10",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/F/F 1 C10.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-hheavy",
+    "line": "CX",
+    "name": "H (Heavy)",
+    "weight": 7.0,
+    "high_level": 9,
+    "bey_type": "balance",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-hheavy-std",
+        "release_code": "CX-11",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/H/H 1 C11.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-zzillion",
+    "line": "CX",
+    "name": "Z (Zillion)",
+    "weight": 6.0,
+    "high_level": 9,
+    "bey_type": "defense",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-zzillion-std",
+        "release_code": "CX-12",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/Z/Z 1 C12.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-kknuckle",
+    "line": "CX",
+    "name": "K (Knuckle)",
+    "weight": 0.0,
+    "high_level": 0,
+    "bey_type": "attack",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-kknuckle-std",
+        "release_code": "CX-13",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/K/K 1 C13.webp",
+        "color": null
+      },
+      {
+        "variant_id": "assist-blade-kknuckle-cx16-1",
+        "release_code": "CX-16",
+        "name": "CX-16",
+        "image": "https://bey-library.vercel.app/Assist Blade/K/K 2 C13.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-vvertical",
+    "line": "CX",
+    "name": "V (Vertical)",
+    "weight": 0.0,
+    "high_level": 0,
+    "bey_type": "defense",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-vvertical-std",
+        "release_code": "CX-14",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/V/V 1 C14.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "assist-blade-eerase",
+    "line": "CX",
+    "name": "E (Erase)",
+    "weight": 0.0,
+    "high_level": 0,
+    "bey_type": "stamina",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "assist-blade-eerase-std",
+        "release_code": "CX-15",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Assist Blade/E/E 1 C15.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  }
+]

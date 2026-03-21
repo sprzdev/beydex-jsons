@@ -1,0 +1,2120 @@
+[
+  {
+    "id": "ratchet-0-60",
+    "line": "BX",
+    "name": "0-60",
+    "sides": 0,
+    "height": 60,
+    "weight": 7.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-0-60-std",
+        "release_code": "CX-10",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/0/0 60 1 C10.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-0-70",
+    "line": "BX",
+    "name": "0-70",
+    "sides": 0,
+    "height": 70,
+    "weight": 7.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-0-70-std",
+        "release_code": "UX-14",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/0/0 70 1 U14.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-0-80",
+    "line": "BX",
+    "name": "0-80",
+    "sides": 0,
+    "height": 80,
+    "weight": 7.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-0-80-std",
+        "release_code": "UX-12",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/0/0 80 1 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-0-80-ux12-1",
+        "release_code": "UX-12",
+        "name": "UX-12",
+        "image": "https://bey-library.vercel.app/Ratchet/0/0 80 2 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-0-80-ux12-2",
+        "release_code": "UX-12",
+        "name": "UX-12",
+        "image": "https://bey-library.vercel.app/Ratchet/0/0 80 3 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-0-80-cx06-3",
+        "release_code": "CX-06",
+        "name": "CX-06",
+        "image": "https://bey-library.vercel.app/Ratchet/0/0 80 4 C06.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-1-50",
+    "line": "BX",
+    "name": "1-50",
+    "sides": 1,
+    "height": 50,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-1-50-std",
+        "release_code": "CX-13",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 50 1 C13.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-50-cx16-1",
+        "release_code": "CX-16",
+        "name": "CX-16",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 50 2 C16.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-1-60",
+    "line": "BX",
+    "name": "1-60",
+    "sides": 1,
+    "height": 60,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-1-60-std",
+        "release_code": "UX-01",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 1 U01.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-ux04-1",
+        "release_code": "UX-04",
+        "name": "UX-04",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 2 U04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-ux00-2",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 0 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-bx31-3",
+        "release_code": "BX-31",
+        "name": "BX-31",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 3 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-bx35-4",
+        "release_code": "BX-35",
+        "name": "BX-35",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 4 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-bx00-5",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 5 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-ux10-6",
+        "release_code": "UX-10",
+        "name": "UX-10",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 6 U10.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-ux13-7",
+        "release_code": "UX-13",
+        "name": "UX-13",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 7 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-parklimited-8",
+        "release_code": "",
+        "name": "Park Limited",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 8 LTD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-parklimited-9",
+        "release_code": "",
+        "name": "Park Limited",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 9 LTD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-parklimited-10",
+        "release_code": "",
+        "name": "Park Limited",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 10 LTD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-parklimited-11",
+        "release_code": "",
+        "name": "Park Limited",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 11 LTD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-parklimited-12",
+        "release_code": "",
+        "name": "Park Limited",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 12 LTD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-parklimited-13",
+        "release_code": "",
+        "name": "Park Limited",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 13 LTD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-ux13-14",
+        "release_code": "UX-13",
+        "name": "UX-13",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 14 U13.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-cx08-15",
+        "release_code": "CX-08",
+        "name": "CX-08",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 15 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-60-limited-16",
+        "release_code": "",
+        "name": "Limited",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 60 16 LD.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-1-70",
+    "line": "BX",
+    "name": "1-70",
+    "sides": 1,
+    "height": 70,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-1-70-std",
+        "release_code": "UX-15",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 70 1 U15.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-1-80",
+    "line": "BX",
+    "name": "1-80",
+    "sides": 1,
+    "height": 80,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-1-80-std",
+        "release_code": "UX-05",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 80 1 U05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-80-ux07-1",
+        "release_code": "UX-07",
+        "name": "UX-07",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 80 2 U07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-80-collab-2",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 80 3 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-1-80-bx00-3",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/1/1 80 4 B00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-2-60",
+    "line": "BX",
+    "name": "2-60",
+    "sides": 2,
+    "height": 60,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-2-60-std",
+        "release_code": "BX-34",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 60 1 B34.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-60-bx00-1",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 60 2 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-60-ux07-2",
+        "release_code": "UX-07",
+        "name": "UX-07",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 60 3 U07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-60-25thanniversary-3",
+        "release_code": "",
+        "name": "25th Anniversary",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 60 4 25th.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-60-ux12-4",
+        "release_code": "UX-12",
+        "name": "UX-12",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 60 5 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-60-corocorocomic-5",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 60 6 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-60-cx06-6",
+        "release_code": "CX-06",
+        "name": "CX-06",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 60 7 C06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-60-bx00-7",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/3/2 60 8 B00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-2-70",
+    "line": "BX",
+    "name": "2-70",
+    "sides": 2,
+    "height": 70,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-2-70-std",
+        "release_code": "UX-09",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 70 1 U09.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-70-corocorocomic-1",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-70-corocorocomic-2",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 70 3 C00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-2-80",
+    "line": "BX",
+    "name": "2-80",
+    "sides": 2,
+    "height": 80,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-2-80-std",
+        "release_code": "BX-00",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 80 1 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-80-rarebeybattle-1",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 80 2 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-80-dmmlottery-2",
+        "release_code": "",
+        "name": "DMM Lottery",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 80 3 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-80-dmmlottery-3",
+        "release_code": "",
+        "name": "DMM Lottery",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 80 4 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-2-80-bx48-4",
+        "release_code": "BX-48",
+        "name": "BX-48",
+        "image": "https://bey-library.vercel.app/Ratchet/2/2 80 5 B48.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-3-60",
+    "line": "BX",
+    "name": "3-60",
+    "sides": 3,
+    "height": 60,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-3-60-std",
+        "release_code": "BX-01",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 1 B01.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-bx07-1",
+        "release_code": "BX-07",
+        "name": "BX-07",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 2 B07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-bx14-2",
+        "release_code": "BX-14",
+        "name": "BX-14",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 3 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-bx14-3",
+        "release_code": "BX-14",
+        "name": "BX-14",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 4 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-bx17-4",
+        "release_code": "BX-17",
+        "name": "BX-17",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 5 B17.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-bx21-5",
+        "release_code": "BX-21",
+        "name": "BX-21",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 6 B21.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-bx24-6",
+        "release_code": "BX-24",
+        "name": "BX-24",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 7 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-bx31-7",
+        "release_code": "BX-31",
+        "name": "BX-31",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 8 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-bx33-8",
+        "release_code": "BX-33",
+        "name": "BX-33",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 9 B33.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-bx39-9",
+        "release_code": "BX-39",
+        "name": "BX-39",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 10 B39.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-collab-10",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 11 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-collab-11",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 12 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-collab-12",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 13 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-bx00-13",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 14 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-sushirover-14",
+        "release_code": "",
+        "name": "Sushiro Ver.",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 15 Sushi.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-60-ux15-15",
+        "release_code": "UX-15",
+        "name": "UX-15",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 60 16 U15.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-3-70",
+    "line": "BX",
+    "name": "3-70",
+    "sides": 3,
+    "height": 70,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-3-70-std",
+        "release_code": "UX-02",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 70 1 U02.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-70-ux05-1",
+        "release_code": "UX-05",
+        "name": "UX-05",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 70 2 U05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-70-bx35-2",
+        "release_code": "BX-35",
+        "name": "BX-35",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 70 3 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-70-rarebeybattle-3",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 70 4 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-70-ux00-4",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 70 5 25th.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-70-ux00-5",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 70 6 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-70-ux00-6",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 70 7 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-70-ux17-7",
+        "release_code": "UX-17",
+        "name": "UX-17",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 70 8 U17.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-70-ux00-8",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 70 9 U00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-3-80",
+    "line": "BX",
+    "name": "3-80",
+    "sides": 3,
+    "height": 80,
+    "weight": 7.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-3-80-std",
+        "release_code": "BX-04",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 1 B04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-bx06-1",
+        "release_code": "BX-06",
+        "name": "BX-06",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 2 B06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-bx08-2",
+        "release_code": "BX-08",
+        "name": "BX-08",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 3 B08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-bx14-3",
+        "release_code": "BX-14",
+        "name": "BX-14",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 4 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-bx16-4",
+        "release_code": "BX-16",
+        "name": "BX-16",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 5 B16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-bx19-5",
+        "release_code": "BX-19",
+        "name": "BX-19",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 6 B19.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-bx20-6",
+        "release_code": "BX-20",
+        "name": "BX-20",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 7 B20.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-bx24-7",
+        "release_code": "BX-24",
+        "name": "BX-24",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 8 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-bx00-8",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 9 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-corocorocomic-9",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 10 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-bx36-10",
+        "release_code": "BX-36",
+        "name": "BX-36",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 11 B36.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-ux08-11",
+        "release_code": "UX-08",
+        "name": "UX-08",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 12 U08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-ux12-12",
+        "release_code": "UX-12",
+        "name": "UX-12",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 13 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-collab-13",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 14 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-collab-14",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 15 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-collab-15",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 16 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-80-g3prize-16",
+        "release_code": "",
+        "name": "G3 Prize",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 80 17 G3P.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-3-85",
+    "line": "BX",
+    "name": "3-85",
+    "sides": 3,
+    "height": 85,
+    "weight": 4.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-3-85-std",
+        "release_code": "UX-10",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 85 1 U10.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-85-cx05-1",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 85 2 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-85-collab-2",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 85 3 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-85-cx08-3",
+        "release_code": "CX-08",
+        "name": "CX-08",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 85 4 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-85-rarebeybattle-4",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 85 5 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-85-ux18-5",
+        "release_code": "UX-18",
+        "name": "UX-18",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 85 6 U18.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-3-85-bx48-6",
+        "release_code": "BX-48",
+        "name": "BX-48",
+        "image": "https://bey-library.vercel.app/Ratchet/3/3 85 7 B48.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-4-50",
+    "line": "BX",
+    "name": "4-50",
+    "sides": 4,
+    "height": 50,
+    "weight": 5.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-4-50-std",
+        "release_code": "UX-15",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 50 1 U15.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-50-bx49-1",
+        "release_code": "BX-49",
+        "name": "BX-49",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 50 2 B49.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-4-55",
+    "line": "BX",
+    "name": "4-55",
+    "sides": 4,
+    "height": 55,
+    "weight": 4.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-4-55-std",
+        "release_code": "CX-02",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 55 1 C02.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-55-cx05-1",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 55 2 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-55-cx08-2",
+        "release_code": "CX-08",
+        "name": "CX-08",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 55 6 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-55-collab-3",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 55 4 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-55-cx00-4",
+        "release_code": "CX-00",
+        "name": "CX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 55 5 C00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-55-cx15-5",
+        "release_code": "CX-15",
+        "name": "CX-15",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 55 7 C15.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-4-60",
+    "line": "BX",
+    "name": "4-60",
+    "sides": 4,
+    "height": 60,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-4-60-std",
+        "release_code": "BX-02",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 1 B02.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-rarebeybattle-1",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 2 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-bx00-2",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 3 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-bx08-3",
+        "release_code": "BX-08",
+        "name": "BX-08",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 4 B08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-bx14-4",
+        "release_code": "BX-14",
+        "name": "BX-14",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 5 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-bx16-5",
+        "release_code": "BX-16",
+        "name": "BX-16",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 6 B16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-bx20-6",
+        "release_code": "BX-20",
+        "name": "BX-20",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 7 B20.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-bx24-7",
+        "release_code": "BX-24",
+        "name": "BX-24",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 8 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-bx35-8",
+        "release_code": "BX-35",
+        "name": "BX-35",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 9 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-25thanniversary-9",
+        "release_code": "",
+        "name": "25th Anniversary",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 10 25th.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-rarebeybattle-10",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 11 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-gamepackage-11",
+        "release_code": "",
+        "name": "Game Package",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 12 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-ux12-12",
+        "release_code": "UX-12",
+        "name": "UX-12",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 13 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-collab-13",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 14 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-collab-14",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 15 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-collab-15",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 16 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-gamepackage-16",
+        "release_code": "",
+        "name": "Game Package",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 17 C00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-60-ux18-17",
+        "release_code": "UX-18",
+        "name": "UX-18",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 60 18 U18.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-4-70",
+    "line": "BX",
+    "name": "4-70",
+    "sides": 4,
+    "height": 70,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-4-70-std",
+        "release_code": "BX-31",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 70 1 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-70-bx31-1",
+        "release_code": "BX-31",
+        "name": "BX-31",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 70 2 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-70-bx36-2",
+        "release_code": "BX-36",
+        "name": "BX-36",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 70 3 B36.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-70-bx38-3",
+        "release_code": "BX-38",
+        "name": "BX-38",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 70 4 B38.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-70-cx05-4",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 70 5 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-70-cx05-5",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 70 6 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-70-rarebeybattle-6",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 70 7 C00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-70-bx48-7",
+        "release_code": "BX-48",
+        "name": "BX-48",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 70 8 B48.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-4-80",
+    "line": "BX",
+    "name": "4-80",
+    "sides": 4,
+    "height": 80,
+    "weight": 7.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-4-80-std",
+        "release_code": "BX-03",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 1 B03.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-bx05-1",
+        "release_code": "BX-05",
+        "name": "BX-05",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 2 B05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-bx08-2",
+        "release_code": "BX-08",
+        "name": "BX-08",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 3 B08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-bx13-3",
+        "release_code": "BX-13",
+        "name": "BX-13",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 4 B13.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-bx14-4",
+        "release_code": "BX-14",
+        "name": "BX-14",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 5 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-bx14-5",
+        "release_code": "BX-14",
+        "name": "BX-14",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 6 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-bx17-6",
+        "release_code": "BX-17",
+        "name": "BX-17",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 7 B17.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-bx21-7",
+        "release_code": "BX-21",
+        "name": "BX-21",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 8 B21.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-bx24-8",
+        "release_code": "BX-24",
+        "name": "BX-24",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 9 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-bx27-9",
+        "release_code": "BX-27",
+        "name": "BX-27",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 10 B27.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-bx00-10",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 11 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-collab-11",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 12 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-collab-12",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 13 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-collab-13",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 14 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-ux00-14",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 15 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-4-80-ux18-15",
+        "release_code": "UX-18",
+        "name": "UX-18",
+        "image": "https://bey-library.vercel.app/Ratchet/4/4 80 16 U18.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-5-60",
+    "line": "BX",
+    "name": "5-60",
+    "sides": 5,
+    "height": 60,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-5-60-std",
+        "release_code": "BX-15",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 60 1 B15.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-60-bx21-1",
+        "release_code": "BX-21",
+        "name": "BX-21",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 60 2 B21.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-60-bx24-2",
+        "release_code": "BX-24",
+        "name": "BX-24",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 60 3 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-60-bx00-3",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 60 4 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-60-bx26-4",
+        "release_code": "BX-26",
+        "name": "BX-26",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 60 5 B26.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-60-bx00-5",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 60 6 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-60-bx27-6",
+        "release_code": "BX-27",
+        "name": "BX-27",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 60 7 B27.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-60-rarebeybattle-7",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 60 8 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-60-bx37-8",
+        "release_code": "BX-37",
+        "name": "BX-37",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 60 9 B37.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-60-cx11-9",
+        "release_code": "CX-11",
+        "name": "CX-11",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 60 10 C11.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-5-70",
+    "line": "BX",
+    "name": "5-70",
+    "sides": 5,
+    "height": 70,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-5-70-std",
+        "release_code": "UX-03",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 70 1 U03.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-70-ux04-1",
+        "release_code": "UX-04",
+        "name": "UX-04",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 70 2 U04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-70-bx35-2",
+        "release_code": "BX-35",
+        "name": "BX-35",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 70 3 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-70-bx39-3",
+        "release_code": "BX-39",
+        "name": "BX-39",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 70 4 B39.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-70-g3prize-4",
+        "release_code": "",
+        "name": "G3 Prize",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 70 5 G3P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-70-corocorocomic-5",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 70 6 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-70-cx09-6",
+        "release_code": "CX-09",
+        "name": "CX-09",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 70 7 C09.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-5-80",
+    "line": "BX",
+    "name": "5-80",
+    "sides": 5,
+    "height": 80,
+    "weight": 7.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-5-80-std",
+        "release_code": "BX-16",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 80 1 B16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-80-bx20-1",
+        "release_code": "BX-20",
+        "name": "BX-20",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 80 2 B20.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-80-bx24-2",
+        "release_code": "BX-24",
+        "name": "BX-24",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 80 3 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-80-bx31-3",
+        "release_code": "BX-31",
+        "name": "BX-31",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 80 4 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-80-bx35-4",
+        "release_code": "BX-35",
+        "name": "BX-35",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 80 5 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-80-bx36-5",
+        "release_code": "BX-36",
+        "name": "BX-36",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 80 6 B36.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-80-cx08-6",
+        "release_code": "CX-08",
+        "name": "CX-08",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 80 7 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-5-80-cx08-7",
+        "release_code": "CX-08",
+        "name": "CX-08",
+        "image": "https://bey-library.vercel.app/Ratchet/5/5 80 8 C08.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-6-60",
+    "line": "BX",
+    "name": "6-60",
+    "sides": 6,
+    "height": 60,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-6-60-std",
+        "release_code": "CX-01",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/6/6 60 1 C01.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-6-60-cx04-1",
+        "release_code": "CX-04",
+        "name": "CX-04",
+        "image": "https://bey-library.vercel.app/Ratchet/6/6 60 2 C04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-6-60-g1prize-2",
+        "release_code": "",
+        "name": "G1 Prize",
+        "image": "https://bey-library.vercel.app/Ratchet/6/6 60 3 G1P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-6-60-g1prize-3",
+        "release_code": "",
+        "name": "G1 Prize",
+        "image": "https://bey-library.vercel.app/Ratchet/6/6 60 4 G1P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-6-60-g1prize-4",
+        "release_code": "",
+        "name": "G1 Prize",
+        "image": "https://bey-library.vercel.app/Ratchet/6/6 60 5 G1P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-6-60-gplimited-5",
+        "release_code": "",
+        "name": "GP Limited",
+        "image": "",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-6-70",
+    "line": "BX",
+    "name": "6-70",
+    "sides": 6,
+    "height": 70,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-6-70-std",
+        "release_code": "BX-45",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/6/6 70 1 B45.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-6-80",
+    "line": "BX",
+    "name": "6-80",
+    "sides": 6,
+    "height": 80,
+    "weight": 7.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-6-80-std",
+        "release_code": "CX-03",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/6/6 80 1 C03.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-6-80-cx04-1",
+        "release_code": "CX-04",
+        "name": "CX-04",
+        "image": "https://bey-library.vercel.app/Ratchet/6/6 80 2 C04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-6-80-g3prize-2",
+        "release_code": "",
+        "name": "G3 Prize",
+        "image": "https://bey-library.vercel.app/Ratchet/6/6 80 3 G3P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-6-80-bx00-3",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/6/6 80 4 B00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-7-55",
+    "line": "BX",
+    "name": "7-55",
+    "sides": 7,
+    "height": 55,
+    "weight": 4.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-7-55-std",
+        "release_code": "UX-18",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/7/7 55 1 U18.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-7-55-ux18-1",
+        "release_code": "UX-18",
+        "name": "UX-18",
+        "image": "https://bey-library.vercel.app/Ratchet/7/7 55 2 U18.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-7-60",
+    "line": "BX",
+    "name": "7-60",
+    "sides": 7,
+    "height": 60,
+    "weight": 7.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-7-60-std",
+        "release_code": "UX-06",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/7/7 60 1 U06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-7-60-bx00-1",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/7/7 60 2 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-7-60-cx05-2",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Ratchet/7/7 60 3 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-7-60-bx48-3",
+        "release_code": "BX-48",
+        "name": "BX-48",
+        "image": "https://bey-library.vercel.app/Ratchet/7/7 60 4 B48.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-7-70",
+    "line": "BX",
+    "name": "7-70",
+    "sides": 7,
+    "height": 70,
+    "weight": 7.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-7-70-std",
+        "release_code": "UX-10",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/7/7 70 1 U10.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-7-70-cx08-1",
+        "release_code": "CX-08",
+        "name": "CX-08",
+        "image": "https://bey-library.vercel.app/Ratchet/7/7 70 2 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-7-70-bx46-2",
+        "release_code": "BX-46",
+        "name": "BX-46",
+        "image": "https://bey-library.vercel.app/Ratchet/7/7 70 3 B46.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-7-80",
+    "line": "BX",
+    "name": "7-80",
+    "sides": 7,
+    "height": 80,
+    "weight": 8.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-7-80-std",
+        "release_code": "CX-39",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/7/7 80 1 B39.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-8-70",
+    "line": "BX",
+    "name": "8-70",
+    "sides": 8,
+    "height": 70,
+    "weight": 8.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-8-70-std",
+        "release_code": "CX-14",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/8/8 70 1 C14.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-9-60",
+    "line": "BX",
+    "name": "9-60",
+    "sides": 9,
+    "height": 60,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-9-60-std",
+        "release_code": "BX-23",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 60 1 B23.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-60-ux05-1",
+        "release_code": "UX-05",
+        "name": "UX-05",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 60 2 U05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-60-ux11-2",
+        "release_code": "UX-11",
+        "name": "UX-11",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 60 3 U11.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-60-bx00-3",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 60 4 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-60-collab-4",
+        "release_code": "",
+        "name": "Collab",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 60 5 Col.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-60-ux00-5",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 60 6 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-60-bx46-6",
+        "release_code": "BX-46",
+        "name": "BX-46",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 60 7 B46.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-60-limited-7",
+        "release_code": "",
+        "name": "Limited",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 60 8 LD.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-9-65",
+    "line": "BX",
+    "name": "9-65",
+    "sides": 9,
+    "height": 65,
+    "weight": 4.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-9-65-std",
+        "release_code": "UX-16",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 65 1 U16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-65-ux16-1",
+        "release_code": "UX-16",
+        "name": "UX-16",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 65 2 U16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-65-ux16-2",
+        "release_code": "UX-16",
+        "name": "UX-16",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 65 3 U16.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-9-70",
+    "line": "BX",
+    "name": "9-70",
+    "sides": 9,
+    "height": 70,
+    "weight": 6.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-9-70-std",
+        "release_code": "UX-07",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 70 1 U07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-70-cx06-1",
+        "release_code": "CX-06",
+        "name": "CX-06",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 70 2 C06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-70-cx06-2",
+        "release_code": "CX-06",
+        "name": "CX-06",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 70 3 U18.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-9-80",
+    "line": "BX",
+    "name": "9-80",
+    "sides": 9,
+    "height": 80,
+    "weight": 7.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-9-80-std",
+        "release_code": "BX-27",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 80 1 B27.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-80-bx31-1",
+        "release_code": "BX-31",
+        "name": "BX-31",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 80 2 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-80-bx35-2",
+        "release_code": "BX-35",
+        "name": "BX-35",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 80 3 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-80-bx00-3",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 80 4 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-80-cx05-4",
+        "release_code": "CX-05",
+        "name": "CX-05",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 80 5 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-80-cx12-5",
+        "release_code": "CX-12",
+        "name": "CX-12",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 80 6 C12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-9-80-bx48-6",
+        "release_code": "BX-48",
+        "name": "BX-48",
+        "image": "https://bey-library.vercel.app/Ratchet/9/9 80 7 B48.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-m-85",
+    "line": "BX",
+    "name": "M-85",
+    "sides": 0,
+    "height": 85,
+    "weight": 10.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-m-85-std",
+        "release_code": "BX-44",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Ratchet/M/M 85 1 B44.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-m-85-cx11-1",
+        "release_code": "CX-11",
+        "name": "CX-11",
+        "image": "https://bey-library.vercel.app/Ratchet/M/M 85 2 C11.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-tr",
+    "line": "BX",
+    "name": "Tr",
+    "sides": 0,
+    "height": 60,
+    "weight": 12.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-tr-std",
+        "release_code": "CX-07",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Hybird Part/Tr 1 C07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "ratchet-tr-corocoroevent-1",
+        "release_code": "",
+        "name": "CoroCoro Event",
+        "image": "https://bey-library.vercel.app/Hybird Part/Tr 2 C00.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "ratchet-op",
+    "line": "BX",
+    "name": "Op",
+    "sides": 0,
+    "height": 60,
+    "weight": 14.0,
+    "variants": [
+      {
+        "variant_id": "ratchet-op-std",
+        "release_code": "CX-11",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Hybird Part/Op 1 C11.webp",
+        "color": null
+      }
+    ],
+    "description": "",
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  }
+]

@@ -1,0 +1,4285 @@
+[
+  {
+    "id": "blade-dransword",
+    "line": "BX",
+    "name": "Dran Sword",
+    "hasbro_name": "",
+    "weight": 35.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "3-60 Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-dransword-std",
+        "release_code": "BX-01",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 1 B01.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dransword-bx07-1",
+        "release_code": "BX-07",
+        "name": "BX-07",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 2 B07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dransword-bx1403-2",
+        "release_code": "BX-14 (03)",
+        "name": "BX-14 (03)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 3 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dransword-bx17-3",
+        "release_code": "BX-17",
+        "name": "BX-17",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 4 B17.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dransword-bx00-4",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 5 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dransword-25thanniversary-5",
+        "release_code": "",
+        "name": "25th Anniversary",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 6 25th.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dransword-bx00-6",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 7 UX00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dransword-suhirover-7",
+        "release_code": "",
+        "name": "Suhiro Ver.",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 8 Sushi.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dransword-g1prize-8",
+        "release_code": "",
+        "name": "G1 Prize",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 9 G1P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dransword-g1prize-9",
+        "release_code": "",
+        "name": "G1 Prize",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 10 G1P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dransword-g1prize-10",
+        "release_code": "",
+        "name": "G1 Prize",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 11 G1P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dransword-limnited-11",
+        "release_code": "",
+        "name": "Limnited",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 12 LD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dransword-limnited-12",
+        "release_code": "",
+        "name": "Limnited?",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DS 13 LD.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-hellsscythe",
+    "line": "BX",
+    "name": "Hells Scythe",
+    "hasbro_name": "",
+    "weight": 32.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "4-60 Taper",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-hellsscythe-std",
+        "release_code": "BX-02",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HS 1 B02.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-hellsscythe-bx00-1",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HS 2 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-hellsscythe-bx08-2",
+        "release_code": "BX-08",
+        "name": "BX-08",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HS 3 B08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-hellsscythe-bx1404-3",
+        "release_code": "BX-14 (04)",
+        "name": "BX-14 (04)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HS 4 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-hellsscythe-corocorocomic-4",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HS 5 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-hellsscythe-bx4804-5",
+        "release_code": "BX-48 (04)",
+        "name": "BX-48 (04)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HS 6 B48.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-wizardarrow",
+    "line": "BX",
+    "name": "Wizard Arrow",
+    "hasbro_name": "",
+    "weight": 32.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "4-80 Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-wizardarrow-std",
+        "release_code": "BX-03",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WA 1 B03.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wizardarrow-bx05-1",
+        "release_code": "BX-05",
+        "name": "BX-05",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WA 2 B05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wizardarrow-bx08-2",
+        "release_code": "BX-08",
+        "name": "BX-08",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WA 3 B08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wizardarrow-bx1406-3",
+        "release_code": "BX-14 (06)",
+        "name": "BX-14 (06)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WA 4 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wizardarrow-bx17-4",
+        "release_code": "BX-17",
+        "name": "BX-17",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WA 5 B17.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wizardarrow-bx21-5",
+        "release_code": "BX-21",
+        "name": "BX-21",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WA 6 B21.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wizardarrow-bx2406-6",
+        "release_code": "BX-24 (06)",
+        "name": "BX-24 (06)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WA 7 B24.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-knightshield",
+    "line": "BX",
+    "name": "Knight Shield",
+    "hasbro_name": "",
+    "weight": 32.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "3-80 Needle",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-knightshield-std",
+        "release_code": "BX-04",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/KS 1 B04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-knightshield-bx06-1",
+        "release_code": "BX-06",
+        "name": "BX-06",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/KS 2 B06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-knightshield-bx08-2",
+        "release_code": "BX-08",
+        "name": "BX-08",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/KS 3 B08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-knightshield-bx1405-3",
+        "release_code": "BX-14 (05)",
+        "name": "BX-14 (05)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/KS 4 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-knightshield-bx20-4",
+        "release_code": "BX-20",
+        "name": "BX-20",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/KS 5 B20.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-knightshield-g3prize-5",
+        "release_code": "",
+        "name": "G3 Prize",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/KS 6 G3P.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-knightlance",
+    "line": "BX",
+    "name": "Knight Lance",
+    "hasbro_name": "",
+    "weight": 32.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "4-80 High Needle",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-knightlance-std",
+        "release_code": "BX-13",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/KL 1 B13.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-knightlance-bx21-1",
+        "release_code": "BX-21",
+        "name": "BX-21",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/KL 2 B21.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-knightlance-bx2402-2",
+        "release_code": "BX-24 (02)",
+        "name": "BX-24 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/KL 3 B24.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-sharkedge",
+    "line": "BX",
+    "name": "Shark Edge",
+    "hasbro_name": "",
+    "weight": 35.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "3-60 Low Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-sharkedge-std",
+        "release_code": "BX-14",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SE 1 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-sharkedge-bx1402-1",
+        "release_code": "BX-14 (02)",
+        "name": "BX-14 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SE 2 B14.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-sharkedge-bx20-2",
+        "release_code": "BX-20",
+        "name": "BX-20",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SE 3 B20.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-sharkedge-bx3105-3",
+        "release_code": "BX-31 (05)",
+        "name": "BX-31 (05)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SE 4 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-sharkedge-bx00-4",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SE 5 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-sharkedge-bx00-5",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SE 6 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-sharkedge-bx4802-6",
+        "release_code": "BX-48 (02)",
+        "name": "BX-48 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SE 7 B48.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-leonclaw",
+    "line": "BX",
+    "name": "Leon Claw",
+    "hasbro_name": "",
+    "weight": 31.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "5-60 Point",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-leonclaw-std",
+        "release_code": "BX-15",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/LC 1 B15.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-leonclaw-bx00-1",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/LC 4 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-leonclaw-bx2405-2",
+        "release_code": "BX-24 (05)",
+        "name": "BX-24 (05)",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/LC 2 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-leonclaw-ux1204-3",
+        "release_code": "UX-12 (04)",
+        "name": "UX-12 (04)",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/LC 3 U12.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-vipertail",
+    "line": "BX",
+    "name": "Viper Tail",
+    "hasbro_name": "",
+    "weight": 34.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "5-80 Orb",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-vipertail-std",
+        "release_code": "BX-16",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/VT 1 B16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-vipertail-bx1602-1",
+        "release_code": "BX-16 (02)",
+        "name": "BX-16 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/VT 2 B16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-vipertail-bx1603-2",
+        "release_code": "BX-16 (03)",
+        "name": "BX-16 (03)",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/VT 3 B16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-vipertail-bx2404-3",
+        "release_code": "BX-24 (04)",
+        "name": "BX-24 (04)",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/VT 4 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-vipertail-bx3506-4",
+        "release_code": "BX-35 (06)",
+        "name": "BX-35 (06)",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/VT 5 B35.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-rhinohorn",
+    "line": "BX",
+    "name": "Rhino Horn",
+    "hasbro_name": "",
+    "weight": 33.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "3-80 Spike",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-rhinohorn-std",
+        "release_code": "BX-19",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/RH 1 B19.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-rhinohorn-bx3106-1",
+        "release_code": "BX-31 (06)",
+        "name": "BX-31 (06)",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/RH 2 B31.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-drandagger",
+    "line": "BX",
+    "name": "Dran Dagger",
+    "hasbro_name": "",
+    "weight": 35.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "4-60 Rush",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-drandagger-std",
+        "release_code": "BX-20",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DD 1 B20.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-drandagger-bx3104-1",
+        "release_code": "BX-31 (04)",
+        "name": "BX-31 (04)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DD 2 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-drandagger-bx00-2",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DD 3 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-drandagger-ux00-3",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DD 4 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-drandagger-ux1805-4",
+        "release_code": "UX-18 (05)",
+        "name": "UX-18 (05)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DD 5 U18.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-hellschain",
+    "line": "BX",
+    "name": "Hells Chain",
+    "hasbro_name": "",
+    "weight": 33.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "5-60 High Taper",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-hellschain-std",
+        "release_code": "BX-21",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HC 1 B21.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-hellschain-bx3103-1",
+        "release_code": "BX-31 (03)",
+        "name": "BX-31 (03)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HC 2 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-hellschain-rarebeybattle-2",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HC 3 B00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-phoenixwing",
+    "line": "BX",
+    "name": "Phoenix Wing",
+    "hasbro_name": "",
+    "weight": 39.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "9-60 Gear Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-phoenixwing-std",
+        "release_code": "BX-23",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/PW 1 B23.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-phoenixwing-bx3505-1",
+        "release_code": "BX-35 (05)",
+        "name": "BX-35 (05)",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/PW 2 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-phoenixwing-bx00-2",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/PW 3 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-phoenixwing-corocorocomic-3",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/PW 4 B00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-wyverngale",
+    "line": "BX",
+    "name": "Wyvern Gale",
+    "hasbro_name": "",
+    "weight": 32.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "5-80 Gear Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-wyverngale-std",
+        "release_code": "BX-24",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/WG 1 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wyverngale-bx2402-1",
+        "release_code": "BX-24 (02)",
+        "name": "BX-24 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/WG 2 B24.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wyverngale-ux07-2",
+        "release_code": "UX-07",
+        "name": "UX-07",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/WG 3 U07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wyverngale-ux1205-3",
+        "release_code": "UX-12 (05)",
+        "name": "UX-12 (05)",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/WG 4 U12.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-unicornsting",
+    "line": "BX",
+    "name": "Unicorn Sting",
+    "hasbro_name": "",
+    "weight": 33.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "5-60 Gear Point",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-unicornsting-std",
+        "release_code": "BX-26",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/US 1 B26.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-unicornsting-bx3503-1",
+        "release_code": "BX-35 (03)",
+        "name": "BX-35 (03)",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/US 2 B35.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-sphinxcowl",
+    "line": "BX",
+    "name": "Sphinx Cowl",
+    "hasbro_name": "",
+    "weight": 33.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "9-80 Gear Needle",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-sphinxcowl-std",
+        "release_code": "BX-27",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/SC 1 B27.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-sphinxcowl-bx2702-1",
+        "release_code": "BX-27 (02)",
+        "name": "BX-27 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/SC 2 B27.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-sphinxcowl-bx2703-2",
+        "release_code": "BX-27 (03)",
+        "name": "BX-27 (03)",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/SC 3 B27.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-sphinxcowl-ux07-3",
+        "release_code": "UX-07",
+        "name": "UX-07",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/SC 4 U07.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-dranbuster",
+    "line": "UX",
+    "name": "Dran Buster",
+    "hasbro_name": "",
+    "weight": 37.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "1-60 Accel",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-dranbuster-std",
+        "release_code": "UX-01",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DB 1 U01.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbuster-ux04-1",
+        "release_code": "UX-04",
+        "name": "UX-04",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DB 2 U04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbuster-ux00-2",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DB 3 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbuster-ux00-3",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DB 4 LTD1.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbuster-ux00-4",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DB 5 LTD2.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbuster-ux00-5",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DB 6 LTD3.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbuster-ux00-6",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DB 7 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbuster-ux00-7",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DB 8 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbuster-cx0804-8",
+        "release_code": "CX-08 (04)",
+        "name": "CX-08 (04)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DB 9 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbuster-bx4805-9",
+        "release_code": "BX-48 (05)",
+        "name": "BX-48 (05)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DB 10 B48.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-hellshammer",
+    "line": "UX",
+    "name": "Hells Hammer",
+    "hasbro_name": "",
+    "weight": 33.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "3-70 Hexa",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-hellshammer-std",
+        "release_code": "UX-02",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HH 1 U02.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-hellshammer-ux10-1",
+        "release_code": "UX-10",
+        "name": "UX-10",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HH 2 U10.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-hellshammer-ux00-2",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HH 3 U00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-wizardrod",
+    "line": "UX",
+    "name": "Wizard Rod",
+    "hasbro_name": "",
+    "weight": 35.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "5-70 Disc Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-wizardrod-std",
+        "release_code": "UX-03",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WR 1 U03.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wizardrod-ux04-1",
+        "release_code": "UX-04",
+        "name": "UX-04",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WR 2 U04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wizardrod-bx3504-2",
+        "release_code": "BX-35 (04)",
+        "name": "BX-35 (04)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WR 3 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wizardrod-g3prize-3",
+        "release_code": "",
+        "name": "G3 Prize",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WR 4 G3P.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-tyrannobeat",
+    "line": "BX",
+    "name": "Tyranno Beat",
+    "hasbro_name": "",
+    "weight": 37.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "4-70 Quake",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-tyrannobeat-std",
+        "release_code": "BX-31",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/TB 1 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-tyrannobeat-bx3102-1",
+        "release_code": "BX-31 (02)",
+        "name": "BX-31 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/TB 2 B31.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-tyrannobeat-ux10-2",
+        "release_code": "UX-10",
+        "name": "UX-10",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/TB 3 U10.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-shinobishadow",
+    "line": "UX",
+    "name": "Shinobi Shadow",
+    "hasbro_name": "",
+    "weight": 28.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "1-80 Metal Needle",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-shinobishadow-std",
+        "release_code": "UX-05",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/SSw 1 U05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-shinobishadow-ux0502-1",
+        "release_code": "UX-05 (02)",
+        "name": "UX-05 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/SSw 2 U005.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-shinobishadow-ux0503-2",
+        "release_code": "UX-05 (03)",
+        "name": "UX-05 (03)",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/SSw 3 U05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-shinobishadow-ux1203-3",
+        "release_code": "UX-12 (03)",
+        "name": "UX-12 (03)",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/SSw 4 U12.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-weisstiger",
+    "line": "BX",
+    "name": "Weiss Tiger",
+    "hasbro_name": "",
+    "weight": 34.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "3-60 Unite",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-weisstiger-std",
+        "release_code": "BX-33",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/WT 1 B33.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-weisstiger-ux1806-1",
+        "release_code": "UX-18 (06)",
+        "name": "UX-18 (06)",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/WT 2 U18.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-cobaltdragoon",
+    "line": "BX",
+    "name": "Cobalt Dragoon",
+    "hasbro_name": "",
+    "weight": 38.0,
+    "spin_direction": "left",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "2-60 Cyclone",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-cobaltdragoon-std",
+        "release_code": "BX-34",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/CDg 1 B34.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-cobaltdragoon-bx00-1",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/CDg 2 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-cobaltdragoon-cx0806-2",
+        "release_code": "CX-08 (06)",
+        "name": "CX-08 (06)",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/CDg 3 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-cobaltdragoon-limited-3",
+        "release_code": "",
+        "name": "Limited",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/CDg 4 LD.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-cobaltdragoon-bx4801-4",
+        "release_code": "BX-48 (01)",
+        "name": "BX-48 (01)",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/CDg 5 B48.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-blackshell",
+    "line": "BX",
+    "name": "Black Shell",
+    "hasbro_name": "",
+    "weight": 33.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "4-60 Dot",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-blackshell-std",
+        "release_code": "BX-35",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/BSl 1 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-blackshell-bx3502-1",
+        "release_code": "BX-35 (02)",
+        "name": "BX-35 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/BSl 2 B35.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-blackshell-cx0805-2",
+        "release_code": "CX-08 (05)",
+        "name": "CX-08 (05)",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/BSl 3 C08.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-leoncrest",
+    "line": "UX",
+    "name": "Leon Crest",
+    "hasbro_name": "",
+    "weight": 35.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "7-60 Gear Needle",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-leoncrest-std",
+        "release_code": "UX-06",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/LCT 1 U06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-leoncrest-cx0504-1",
+        "release_code": "CX-05 (04)",
+        "name": "CX-05 (04)",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/LCT 2 C05.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-phoenixrudder",
+    "line": "UX",
+    "name": "Phoenix Rudder",
+    "hasbro_name": "",
+    "weight": 34.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "9-70 Glide",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-phoenixrudder-std",
+        "release_code": "UX-07",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/PR 1 U07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-phoenixrudder-cx0505-1",
+        "release_code": "CX-05 (05)",
+        "name": "CX-05 (05)",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/PR 2 C05.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-whalewave",
+    "line": "BX",
+    "name": "Whale Wave",
+    "hasbro_name": "",
+    "weight": 38.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "5-80 Elavate",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-whalewave-std",
+        "release_code": "BX-36",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WW 1 B36.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-whalewave-bx3602-1",
+        "release_code": "BX-36 (02)",
+        "name": "BX-36 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WW 2 B36.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-whalewave-bx3603-2",
+        "release_code": "BX-36 (03)",
+        "name": "BX-36 (03)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WW 3 B36.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-whalewave-cx0506-3",
+        "release_code": "CX-05 (06)",
+        "name": "CX-05 (06)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WW 4 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-whalewave-bx00-4",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WW 5 B00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-bearscratch",
+    "line": "BX",
+    "name": "Bear Scratch",
+    "hasbro_name": "",
+    "weight": 29.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "5-60 Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-bearscratch-std",
+        "release_code": "BX-37",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/BSc 1 B37.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-silverwolf",
+    "line": "UX",
+    "name": "Silver Wolf",
+    "hasbro_name": "",
+    "weight": 36.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "3-80 Free Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-silverwolf-std",
+        "release_code": "UX-08",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/SW 1 U08.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-samuraisaber",
+    "line": "UX",
+    "name": "Samurai Saber",
+    "hasbro_name": "",
+    "weight": 36.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "2-70 Level",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-samuraisaber-std",
+        "release_code": "UX-09",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SSr 1 U09.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-samuraisaber-ux00-1",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SSr 2 U00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-knightmail",
+    "line": "UX",
+    "name": "Knight Mail",
+    "hasbro_name": "",
+    "weight": 36.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "3-85 Bound Spike",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-knightmail-std",
+        "release_code": "UX-10",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/KM 1 U10.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-knightmail-rarebeybattle-1",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/KM 2 U00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-pteraswing",
+    "line": "BX",
+    "name": "Ptera Swing",
+    "hasbro_name": "",
+    "weight": 34.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "7-70 Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-pteraswing-std",
+        "release_code": "UX-10",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/PS 1 U10.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-crimsongaruda",
+    "line": "BX",
+    "name": "Crimson Garuda",
+    "hasbro_name": "",
+    "weight": 35.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "4-70 Trans Point",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-crimsongaruda-std",
+        "release_code": "BX-38",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/CG 1 B38.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-impactdrake",
+    "line": "UX",
+    "name": "Impact Drake",
+    "hasbro_name": "",
+    "weight": 39.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "9-60 Low Rush",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-impactdrake-std",
+        "release_code": "UX-11",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/ID 1 U11.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-ghostcircle",
+    "line": "UX",
+    "name": "Ghost Circle",
+    "hasbro_name": "",
+    "weight": 26.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "0-80 Gear Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-ghostcircle-std",
+        "release_code": "UX-12",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/GC 1 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-ghostcircle-ux1202-1",
+        "release_code": "UX-12 (02)",
+        "name": "UX-12 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/GC 2 U12.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-golemrock",
+    "line": "UX",
+    "name": "Golem Rock",
+    "hasbro_name": "",
+    "weight": 34.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "1-60 Under Neddle",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-golemrock-std",
+        "release_code": "UX-13",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/GR 1 U13.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-golemrock-cx11-1",
+        "release_code": "CX-11",
+        "name": "CX-11",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/GR 2 C11.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-shelterdrake",
+    "line": "BX",
+    "name": "Shelter Drake",
+    "hasbro_name": "",
+    "weight": 32.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "7-80 Gear Point",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-shelterdrake-std",
+        "release_code": "BX-39",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/SDk 1 B39.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-shelterdrake-bx3902-1",
+        "release_code": "BX-39 (02)",
+        "name": "BX-39 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/SDk 2 B39.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-shelterdrake-bx3903-2",
+        "release_code": "BX-39 (03)",
+        "name": "BX-39 (03)",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/SDk 3 B39.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-dranbrave",
+    "line": "CX",
+    "name": "Dran Brave",
+    "hasbro_name": "",
+    "weight": 37.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Slash 6-60 Vortex",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-dranbrave-std",
+        "release_code": "CX-01",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DBS 1 C01.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbrave-cx04-1",
+        "release_code": "CX-04",
+        "name": "CX-04",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DBS 2 C04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbrave-g1prize-2",
+        "release_code": "",
+        "name": "G1 Prize",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DBs 3 G1P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbrave-g1prize-3",
+        "release_code": "",
+        "name": "G1 Prize",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DBs 4 G1P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbrave-g1prize-4",
+        "release_code": "",
+        "name": "G1 Prize",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DBs 5 G1P.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbrave-corocorospecial-5",
+        "release_code": "",
+        "name": "CoroCoro Special",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DBS 6 SP1.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbrave-rarebeybattle-6",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/Dran Lock R1.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbrave-corocorocomic-7",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/Persona CX.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranbrave-grandprixlimited-8",
+        "release_code": "",
+        "name": "Grand Prix Limited",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/DBS 7 GPL.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-wizardarc",
+    "line": "CX",
+    "name": "Wizard Arc",
+    "hasbro_name": "",
+    "weight": 35.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Round 4-55 Low Orb",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-wizardarc-std",
+        "release_code": "CX-02",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WAR 1 C02 .webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wizardarc-cx00-1",
+        "release_code": "CX-00",
+        "name": "CX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WAR 2 C00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-perseusdark",
+    "line": "CX",
+    "name": "Perseus Dark",
+    "hasbro_name": "",
+    "weight": 37.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Bumper 6-80 Wedge",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-perseusdark-std",
+        "release_code": "CX-03",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/PDB 1 C03.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-perseusdark-cx04-1",
+        "release_code": "CX-04",
+        "name": "CX-04",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/PDB 2 C04.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-perseusdark-g3prize-2",
+        "release_code": "",
+        "name": "G3 Prize",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/PDB 3 G3P.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-hellsreaper",
+    "line": "CX",
+    "name": "Hells Reaper",
+    "hasbro_name": "",
+    "weight": 36.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Turn 4-70 Kick",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-hellsreaper-std",
+        "release_code": "CX-05",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HRT 1 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-hellsreaper-cx05arct03-1",
+        "release_code": "CX-05 (Arc T)(03)",
+        "name": "CX-05 (Arc T)(03)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HRT 2 C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-hellsreaper-cx05fullset-2",
+        "release_code": "CX-05 (Full Set)",
+        "name": "CX-05 (Full Set)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HRT 3F C05.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-hellsreaper-ux15bravej-3",
+        "release_code": "UX-15 (Brave J)",
+        "name": "UX-15 (Brave J)",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/HRT 4 U15.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-rhinoreaper",
+    "line": "CX",
+    "name": "Rhino Reaper",
+    "hasbro_name": "",
+    "weight": 35.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Charge 4-55 Dot",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-rhinoreaper-std",
+        "release_code": "CX-05",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/RRC 1 C05.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-scorpiospear",
+    "line": "UX",
+    "name": "Scorpio Spear",
+    "hasbro_name": "",
+    "weight": 39.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "0-70 Zap",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-scorpiospear-std",
+        "release_code": "UX-14",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/SSp 1 U14.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-foxbrush",
+    "line": "CX",
+    "name": "Fox Brush",
+    "hasbro_name": "",
+    "weight": 36.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Jaggy 9-70 Gear Rush",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-foxbrush-std",
+        "release_code": "CX-06",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/FBJ 1 C06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-foxbrush-cx0602-1",
+        "release_code": "CX-06 (02)",
+        "name": "CX-06 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/FBJ 2 C06.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-foxbrush-cx0603-2",
+        "release_code": "CX-06 (03)",
+        "name": "CX-06 (03)",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/FBJ 3 C06.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-tricerapress",
+    "line": "BX",
+    "name": "Tricera Press",
+    "hasbro_name": "",
+    "weight": 36.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "M-85 Bound Spike",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-tricerapress-std",
+        "release_code": "BX-44",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/TPs 1 B44.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-pegasusblast",
+    "line": "CX",
+    "name": "Pegasus Blast",
+    "hasbro_name": "",
+    "weight": 39.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Assault Turbo",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-pegasusblast-std",
+        "release_code": "CX-07",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/PBA 1 C07.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-pegasusblast-corocoroevent-1",
+        "release_code": "",
+        "name": "CoroCoro Event",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/PBA 2 C00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-pegasusblast-ux18brushm03-2",
+        "release_code": "UX-18 (Brush M)(03)",
+        "name": "UX-18 (Brush M)(03)",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/PBA 3 U18.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-cerberusflame",
+    "line": "CX",
+    "name": "Cerberus Flame",
+    "hasbro_name": "",
+    "weight": 37.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Wheel 5-80 Wall Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-cerberusflame-std",
+        "release_code": "CX-08",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/CFW 1 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-cerberusflame-cx08darkw03-1",
+        "release_code": "CX-08 (Dark W)(03)",
+        "name": "CX-08 (Dark W)(03)",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/CFW 2 C08.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-cerberusflame-cx08fullset-2",
+        "release_code": "CX-08 (Full Set)",
+        "name": "CX-08 (Full Set)",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/CFW 3F C08.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-whaleflame",
+    "line": "CX",
+    "name": "Whale Flame",
+    "hasbro_name": "",
+    "weight": 37.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Massive 3-85 High Taper",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-whaleflame-std",
+        "release_code": "CX-08",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/WFM 1 C08.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-sharkscale",
+    "line": "UX",
+    "name": "Shark Scale",
+    "hasbro_name": "",
+    "weight": 37.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "4-50 Under Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-sharkscale-std",
+        "release_code": "UX-15",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SSl 1 U15.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-tyrannoroar",
+    "line": "BX",
+    "name": "Tyranno Roar",
+    "hasbro_name": "",
+    "weight": 36.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "1-70 Level",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-tyrannoroar-std",
+        "release_code": "UX-15",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/TR 1 U15.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-samuraicalibur",
+    "line": "BX",
+    "name": "Samurai Calibur",
+    "hasbro_name": "",
+    "weight": 36.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "6-70 Merge",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-samuraicalibur-std",
+        "release_code": "BX-45",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SCa 1 B45.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-soleclipse",
+    "line": "CX",
+    "name": "Sol Eclipse",
+    "hasbro_name": "",
+    "weight": 39.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Dual 5-70 Trans Kick",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-soleclipse-std",
+        "release_code": "CX-09",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Kurosu/SED Upper 1 C09.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-soleclipse-ux18bravec04-1",
+        "release_code": "UX-18 (Brave C)(04)",
+        "name": "UX-18 (Brave C)(04)",
+        "image": "https://bey-library.vercel.app/Blade/00Kurosu/SED 2 U18.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-goattackle",
+    "line": "BX",
+    "name": "Goat Tackle",
+    "hasbro_name": "",
+    "weight": 31.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "7-70 Taper",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-goattackle-std",
+        "release_code": "BX-46",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/GTk 1 B46.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-clockmirage",
+    "line": "UX",
+    "name": "Clock Mirage",
+    "hasbro_name": "",
+    "weight": 37.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "9-65 Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-clockmirage-std",
+        "release_code": "UX-16",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Kurosu/CMr 1 U16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-clockmirage-ux1602-1",
+        "release_code": "UX-16 (02)",
+        "name": "UX-16 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00Kurosu/CMr 2 U16.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-clockmirage-ux1603-2",
+        "release_code": "UX-16 (03)",
+        "name": "UX-16 (03)",
+        "image": "https://bey-library.vercel.app/Blade/00Kurosu/CMr 3 U16.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-wolfhunt",
+    "line": "CX",
+    "name": "Wolf Hunt",
+    "hasbro_name": "",
+    "weight": 39.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Free 0-60 Disc Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-wolfhunt-std",
+        "release_code": "CX-10",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/WHF 1 C10.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-emperormight",
+    "line": "CX",
+    "name": "Emperor Might",
+    "hasbro_name": "",
+    "weight": 45.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Heavy Operate",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-emperormight-std",
+        "release_code": "CX-11",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/EMH 1 C11.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-sharkgill",
+    "line": "BX",
+    "name": "Shark Gill",
+    "hasbro_name": "",
+    "weight": 35.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "5-60 Free Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-sharkgill-std",
+        "release_code": "CX-11",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SGl 1 C11.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-meteordragoon",
+    "line": "UX",
+    "name": "Meteor Dragoon",
+    "hasbro_name": "",
+    "weight": 39.0,
+    "spin_direction": "left",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "3-70 Jolt",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-meteordragoon-std",
+        "release_code": "UX-17",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/MDg 1 U17.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-mummycurse",
+    "line": "UX",
+    "name": "Mummy Curse",
+    "hasbro_name": "",
+    "weight": 37.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "7-55 Wedge",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-mummycurse-std",
+        "release_code": "UX-18",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/MCs 1 U18.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-mummycurse-ux1802-1",
+        "release_code": "UX-18 (02)",
+        "name": "UX-18 (02)",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/MCs 2 U18.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-phoenixflare",
+    "line": "CX",
+    "name": "Phoenix Flare",
+    "hasbro_name": "",
+    "weight": 0.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Zillion 9-80 Wall Wedge",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-phoenixflare-std",
+        "release_code": "CX-12",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/PFZ 1 C12.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-bahamutblitz",
+    "line": "CX_EXPANSION",
+    "name": "Bahamut Blitz",
+    "hasbro_name": "",
+    "weight": 0.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Break Knuckle 1-50 Ignition",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-bahamutblitz-std",
+        "release_code": "CX-13",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Kurosu/BBBK 1 C13.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-bahamutblitz-cx16-1",
+        "release_code": "CX-16",
+        "name": "CX-16",
+        "image": "https://bey-library.vercel.app/Blade/00Kurosu/BBBK 2 C16.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-knightfortress",
+    "line": "CX_EXPANSION",
+    "name": "Knight Fortress",
+    "hasbro_name": "",
+    "weight": 0.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Guard Vertical 8-70 Under Needle",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-knightfortress-std",
+        "release_code": "CX-14",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/KFGV 1 C14.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-ragnarage",
+    "line": "CX_EXPANSION",
+    "name": "Ragna Rage",
+    "hasbro_name": "",
+    "weight": 0.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Flow Erase 4-55 Yielding",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-ragnarage-std",
+        "release_code": "CX-15",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/RRFE 1 C15.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-krakenwriggle",
+    "line": "CX",
+    "name": "Kraken Wriggle",
+    "hasbro_name": "",
+    "weight": 0.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "Slash 3-85 Orb",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-krakenwriggle-std",
+        "release_code": "CX-???",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/KWS 1 C12.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-cobaltdrake",
+    "line": "BX",
+    "name": "Cobalt Drake",
+    "hasbro_name": "",
+    "weight": 38.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "4-60 Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-cobaltdrake-std",
+        "release_code": "BX-Rare Bey Battle",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/CDk 1 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-cobaltdrake-rarebeybattle-1",
+        "release_code": "",
+        "name": "Rare Bey Battle",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/CDk 2 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-cobaltdrake-bx46regularsale-2",
+        "release_code": "BX-46 (Regular Sale)",
+        "name": "BX-46 (Regular Sale)",
+        "image": "https://bey-library.vercel.app/Blade/00Pendragon-Goldius/CDk 3 B46.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-phoenixfeather",
+    "line": "BX",
+    "name": "Phoenix Feather",
+    "hasbro_name": "",
+    "weight": 33.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "3-60 Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-phoenixfeather-std",
+        "release_code": "BX-CoroCoro Comic",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/PF 1 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-phoenixfeather-ux1205-1",
+        "release_code": "UX-12 (05)",
+        "name": "UX-12 (05)",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/PF 2 U12.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-phoenixfeather-corocorocomic-2",
+        "release_code": "",
+        "name": "CoroCoro Comic",
+        "image": "https://bey-library.vercel.app/Blade/00Yggdrasil/PF 3 B00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-aeropegasus",
+    "line": "UX",
+    "name": "Aero Pegasus",
+    "hasbro_name": "",
+    "weight": 38.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "3-70 Accel",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-aeropegasus-std",
+        "release_code": "UX-Rare Bey Battle",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/AP 1 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-aeropegasus-ux00-1",
+        "release_code": "UX-00",
+        "name": "UX-00",
+        "image": "https://bey-library.vercel.app/Blade/00Zodiac - Fox/AP 2 U00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-shinobiknifexone",
+    "line": "BX",
+    "name": "Shinobi Knife (XONE)",
+    "hasbro_name": "",
+    "weight": 30.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "4-60 Low Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-shinobiknifexone-std",
+        "release_code": "BX-Game Package",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/SK 1 XONE.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-mammothtusk",
+    "line": "BX",
+    "name": "Mammoth Tusk",
+    "hasbro_name": "",
+    "weight": 30.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "2-80 Elevate",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-mammothtusk-std",
+        "release_code": "BX-Rare Bey Battle",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/MT 1 B00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-mammothtusk-bx4803-1",
+        "release_code": "BX-48 (03)",
+        "name": "BX-48 (03)",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/MT 2 B48.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-croccrunch",
+    "line": "BX",
+    "name": "Croc Crunch",
+    "hasbro_name": "",
+    "weight": 33.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "2-60 Quake",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-croccrunch-std",
+        "release_code": "BX-CoroCoro Comic",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/CC 1 B00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-samuraisteel",
+    "line": "BX",
+    "name": "Samurai Steel",
+    "hasbro_name": "",
+    "weight": 30.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "5-70 Gear Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-samuraisteel-std",
+        "release_code": "BX-CoroCoro Comic",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/SSt 1 B00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-leonfangredver",
+    "line": "CX",
+    "name": "Leon Fang (Red Ver.)",
+    "hasbro_name": "",
+    "weight": 37.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "4-60 Accel",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-leonfangredver-std",
+        "release_code": "CX-Game Package",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Zooganic/LFT 1 RED.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-valkyrievolt",
+    "line": "CX",
+    "name": "Valkyrie Volt",
+    "hasbro_name": "",
+    "weight": 41.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "S 4-70 Vortex",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-valkyrievolt-std",
+        "release_code": "CX-Rare Bey Battle",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Kurosu/VVS 1 C00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-wyvernhover",
+    "line": "UX",
+    "name": "Wyvern Hover",
+    "hasbro_name": "",
+    "weight": 35.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "2-80 Gear Needle",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-wyvernhover-std",
+        "release_code": "UX-DMM Lottery",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/WHr 1 U00.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-wyvernhover-dmmlottery-1",
+        "release_code": "",
+        "name": "DMM Lottery",
+        "image": "https://bey-library.vercel.app/Blade/00SubCharacter/WHr 2 U00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-orochicluster",
+    "line": "UX",
+    "name": "Orochi Cluster",
+    "hasbro_name": "",
+    "weight": 0.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": false,
+    "collaboration_series": null,
+    "original_generation": null,
+    "gimmick": null,
+    "stock_combo": "6-60 Low Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-orochicluster-std",
+        "release_code": "UX-CoroCoro Comic",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/00Persona/OCt 1 U00.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-dranzerspiral",
+    "line": "BX",
+    "name": "Dranzer Spiral",
+    "hasbro_name": "",
+    "weight": 27.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "3-80 Taper",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-dranzerspiral-std",
+        "release_code": "BX-00",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/DSL-1.webp",
+        "color": null
+      },
+      {
+        "variant_id": "blade-dranzerspiral-bx00-1",
+        "release_code": "BX-00",
+        "name": "BX-00",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/DSL-2.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-drigerslash",
+    "line": "BX",
+    "name": "Driger Slash",
+    "hasbro_name": "",
+    "weight": 28.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "4-80 Point",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-drigerslash-std",
+        "release_code": "BX-00",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/DSH-1.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-dracielshield",
+    "line": "BX",
+    "name": "Draciel Shield",
+    "hasbro_name": "",
+    "weight": 28.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "7-60 Dot",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-dracielshield-std",
+        "release_code": "BX-00",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/DSD-1.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-dragoonstorm",
+    "line": "BX",
+    "name": "Dragoon Storm",
+    "hasbro_name": "",
+    "weight": 25.0,
+    "spin_direction": "left",
+    "bey_type": "attack",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "4-60 Rubber Accel",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-dragoonstorm-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/DST-1.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-lightningldrago",
+    "line": "BX",
+    "name": "Lightning L-Drago",
+    "hasbro_name": "",
+    "weight": 34.0,
+    "spin_direction": "left",
+    "bey_type": "attack",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "1-60 Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-lightningldrago-std",
+        "release_code": "BX-00",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/LLD-1 Upper.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-stormpegasis",
+    "line": "BX",
+    "name": "Storm Pegasis",
+    "hasbro_name": "",
+    "weight": 30.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "3-70 Rubber Accel",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-stormpegasis-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/SPS-1.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-rockleone",
+    "line": "BX",
+    "name": "Rock Leone",
+    "hasbro_name": "",
+    "weight": 29.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "6-80 Gear Needle",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-rockleone-std",
+        "release_code": "BX-00",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/RLN-1.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-victoryvalkyrie",
+    "line": "BX",
+    "name": "Victory Valkyrie",
+    "hasbro_name": "",
+    "weight": 33.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "2-60 Rubber Accel",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-victoryvalkyrie-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/VVV-1.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-xenoxcalibur",
+    "line": "BX",
+    "name": "Xeno Xcalibur",
+    "hasbro_name": "",
+    "weight": 30.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "3-60 Gear Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-xenoxcalibur-std",
+        "release_code": "BX-00",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/XXX-1.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-lukeskywalker",
+    "line": "BX",
+    "name": "Luke Skywalker",
+    "hasbro_name": "",
+    "weight": 30.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "4-80 Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-lukeskywalker-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Star1.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-darthvader",
+    "line": "BX",
+    "name": "Darth Vader",
+    "hasbro_name": "",
+    "weight": 30.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "4-60 Point",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-darthvader-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Star2.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-themandalorian",
+    "line": "BX",
+    "name": "The Mandalorian",
+    "hasbro_name": "",
+    "weight": 30.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "3-60 Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-themandalorian-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Star3.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-moffgideon",
+    "line": "BX",
+    "name": "Moff Gideon",
+    "hasbro_name": "",
+    "weight": 30.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "3-80 Needle",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-moffgideon-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Star4.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-optimusprime",
+    "line": "BX",
+    "name": "Optimus Prime",
+    "hasbro_name": "",
+    "weight": 31.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "4-60 Point",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-optimusprime-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Trans1.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-megatron",
+    "line": "BX",
+    "name": "Megatron",
+    "hasbro_name": "",
+    "weight": 31.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "4-80 Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-megatron-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Trans2.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-optimusprimal",
+    "line": "BX",
+    "name": "Optimus Primal",
+    "hasbro_name": "",
+    "weight": 35.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "3-60 Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-optimusprimal-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Trans3.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-starscream",
+    "line": "BX",
+    "name": "Star Scream",
+    "hasbro_name": "",
+    "weight": 29.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "3-80 Needle",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-starscream-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Trans4.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-ironman",
+    "line": "BX",
+    "name": "Iron Man",
+    "hasbro_name": "",
+    "weight": 32.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "4-80 Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-ironman-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Marvel1.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-thanos",
+    "line": "BX",
+    "name": "Thanos",
+    "hasbro_name": "",
+    "weight": 29.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "4-60 Point",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-thanos-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Marvel2.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-spiderman",
+    "line": "BX",
+    "name": "Spider Man",
+    "hasbro_name": "",
+    "weight": 32.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "3-60 Flat",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-spiderman-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Marvel3.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-venom",
+    "line": "BX",
+    "name": "Venom",
+    "hasbro_name": "",
+    "weight": 34.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "3-80 Needle",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-venom-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Marvel4.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-trex",
+    "line": "BX",
+    "name": "T.Rex",
+    "hasbro_name": "",
+    "weight": 0.0,
+    "spin_direction": "right",
+    "bey_type": "stamina",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "1-80 Gear Ball",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-trex-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Jura-1.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-mosasaurus",
+    "line": "BX",
+    "name": "Mosasaurus",
+    "hasbro_name": "",
+    "weight": 0.0,
+    "spin_direction": "right",
+    "bey_type": "balance",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "9-60 Unite",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-mosasaurus-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Jura-2.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-spinosaurus",
+    "line": "BX",
+    "name": "Spinosaurus",
+    "hasbro_name": "",
+    "weight": 0.0,
+    "spin_direction": "right",
+    "bey_type": "attack",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "3-85 Accel",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-spinosaurus-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Jura-3.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  },
+  {
+    "id": "blade-quetzalcoatlus",
+    "line": "BX",
+    "name": "Quetzalcoatlus",
+    "hasbro_name": "",
+    "weight": 0.0,
+    "spin_direction": "right",
+    "bey_type": "defense",
+    "is_collaboration": true,
+    "collaboration_series": "X-Over Project",
+    "original_generation": "Older Generation",
+    "gimmick": null,
+    "stock_combo": "4-55 Dot",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "blade-quetzalcoatlus-std",
+        "release_code": "",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Blade/X-Collab/Jura-4.webp",
+        "color": null
+      }
+    ],
+    "stats": {
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0
+    },
+    "appears_in": {
+      "beys": [],
+      "packs": [],
+      "available_as_individual_part": false
+    }
+  }
+]

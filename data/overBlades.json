@@ -1,0 +1,75 @@
+[
+  {
+    "id": "over-blade-bbreak",
+    "line": "BX",
+    "name": "B (Break)",
+    "weight": 0.0,
+    "bey_type": "attack",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "over-blade-bbreak-std",
+        "release_code": "CX-13",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Over Blade/B/B 1 C13.webp",
+        "color": null
+      },
+      {
+        "variant_id": "over-blade-bbreak-cx16-1",
+        "release_code": "CX-16",
+        "name": "CX-16",
+        "image": "https://bey-library.vercel.app/Over Blade/B/B 2 C16.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "over-blade-gguard",
+    "line": "BX",
+    "name": "G (Guard)",
+    "weight": 0.0,
+    "bey_type": "defense",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "over-blade-gguard-std",
+        "release_code": "CX-14",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Over Blade/G/G 1 C14.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  },
+  {
+    "id": "over-blade-fflow",
+    "line": "BX",
+    "name": "F (Flow)",
+    "weight": 0.0,
+    "bey_type": "stamina",
+    "spin_direction": "right",
+    "description": "",
+    "variants": [
+      {
+        "variant_id": "over-blade-fflow-std",
+        "release_code": "CX-15",
+        "name": "Standard",
+        "image": "https://bey-library.vercel.app/Over Blade/F/F 1 C15.webp",
+        "color": null
+      }
+    ],
+    "appears_in": {
+      "beys": [],
+      "packs": []
+    }
+  }
+]
