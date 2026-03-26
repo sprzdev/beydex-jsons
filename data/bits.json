@@ -2864,6 +2864,102 @@
     }
   },
   {
+    "id": "bit-ff",
+    "line": "BX",
+    "name": "FF",
+    "full_name": "Free Flat",
+    "abbreviation": "FF",
+    "bey_type": "attack",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-ff-hasbro-std",
+        "release_code": "G2742",
+        "name": "Hasbro",
+        "image": "",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": { "attack": 0, "defense": 0, "stamina": 0, "dash": 0, "burstResistance": 0 },
+    "appears_in": { "beys": [], "packs": [], "available_as_individual_part": false }
+  },
+  {
+    "id": "bit-fe",
+    "line": "BX",
+    "name": "FE",
+    "full_name": "Flow Edge",
+    "abbreviation": "FE",
+    "bey_type": "stamina",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-fe-hasbro-std",
+        "release_code": "G4562",
+        "name": "Hasbro",
+        "image": "",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": { "attack": 0, "defense": 0, "stamina": 0, "dash": 0, "burstResistance": 0 },
+    "appears_in": { "beys": [], "packs": [], "available_as_individual_part": false }
+  },
+  {
+    "id": "bit-ds",
+    "line": "BX",
+    "name": "DS",
+    "full_name": "Dual Spin",
+    "abbreviation": "DS",
+    "bey_type": "balance",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "High",
+    "gimmick": "Dual spin direction",
+    "variants": [
+      {
+        "variant_id": "bit-ds-hasbro-std",
+        "release_code": "G4571",
+        "name": "Hasbro",
+        "image": "",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": { "attack": 0, "defense": 0, "stamina": 0, "dash": 0, "burstResistance": 0 },
+    "appears_in": { "beys": [], "packs": [], "available_as_individual_part": false }
+  },
+  {
+    "id": "bit-gv",
+    "line": "BX",
+    "name": "GV",
+    "full_name": "Guard Vertical",
+    "abbreviation": "GV",
+    "bey_type": "defense",
+    "weight": 2.0,
+    "gears": 12,
+    "burst_resistance_type": "Low",
+    "gimmick": "",
+    "variants": [
+      {
+        "variant_id": "bit-gv-hasbro-std",
+        "release_code": "G4563",
+        "name": "Hasbro",
+        "image": "",
+        "color": null
+      }
+    ],
+    "description": "",
+    "stats": { "attack": 0, "defense": 0, "stamina": 0, "dash": 0, "burstResistance": 0 },
+    "appears_in": { "beys": [], "packs": [], "available_as_individual_part": false }
+  },
+  {
     "id": "bit-ftbn",
     "line": "BX",
     "name": "F/T/B/N",
