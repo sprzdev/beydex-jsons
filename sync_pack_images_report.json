@@ -1,0 +1,1613 @@
+[
+  {
+    "pack_id": "pack-bx01",
+    "release_code": "BX-01",
+    "manufacturer": "takara_tomy",
+    "status": "skipped",
+    "reason": "already_exists_locally",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx01.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-bx02",
+    "release_code": "BX-02",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx02.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx02.png"
+  },
+  {
+    "pack_id": "pack-bx03",
+    "release_code": "BX-03",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx03.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx03.png"
+  },
+  {
+    "pack_id": "pack-bx04",
+    "release_code": "BX-04",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx04.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx04.png"
+  },
+  {
+    "pack_id": "pack-bx05",
+    "release_code": "BX-05",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx05.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx05.png"
+  },
+  {
+    "pack_id": "pack-bx06",
+    "release_code": "BX-06",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx06.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx06.png"
+  },
+  {
+    "pack_id": "pack-bx07",
+    "release_code": "BX-07",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx07.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx07.png"
+  },
+  {
+    "pack_id": "pack-bx08",
+    "release_code": "BX-08",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx08.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx08_y.png"
+  },
+  {
+    "pack_id": "pack-bx09",
+    "release_code": "BX-09",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx09.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX09@1.png"
+  },
+  {
+    "pack_id": "pack-bx10",
+    "release_code": "BX-10",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx10.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX10@1.png"
+  },
+  {
+    "pack_id": "pack-bx11",
+    "release_code": "BX-11",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx11.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX11@1.png"
+  },
+  {
+    "pack_id": "pack-bx12",
+    "release_code": "BX-12",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx12.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX12@1.png"
+  },
+  {
+    "pack_id": "pack-bx13",
+    "release_code": "BX-13",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx13.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx13.png"
+  },
+  {
+    "pack_id": "pack-bx14",
+    "release_code": "BX-14",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx14.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx14.png"
+  },
+  {
+    "pack_id": "pack-bx15",
+    "release_code": "BX-15",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx15.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx15.png"
+  },
+  {
+    "pack_id": "pack-bx16",
+    "release_code": "BX-16",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx16.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx16.png"
+  },
+  {
+    "pack_id": "pack-bx17",
+    "release_code": "BX-17",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx17.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx17A.png"
+  },
+  {
+    "pack_id": "pack-bx18",
+    "release_code": "BX-18",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx18.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX18@1.png"
+  },
+  {
+    "pack_id": "pack-bx19",
+    "release_code": "BX-19",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx19.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx19.png"
+  },
+  {
+    "pack_id": "pack-bx20",
+    "release_code": "BX-20",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx20.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx20B.png"
+  },
+  {
+    "pack_id": "pack-bx21",
+    "release_code": "BX-21",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx21.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx21_p.png"
+  },
+  {
+    "pack_id": "pack-bx22",
+    "release_code": "BX-22",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx22.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx22.png"
+  },
+  {
+    "pack_id": "pack-bx23",
+    "release_code": "BX-23",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx23.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx23.png"
+  },
+  {
+    "pack_id": "pack-bx24",
+    "release_code": "BX-24",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx24.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx24.png"
+  },
+  {
+    "pack_id": "pack-bx25",
+    "release_code": "BX-25",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx25.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX25@1.png"
+  },
+  {
+    "pack_id": "pack-bx26",
+    "release_code": "BX-26",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx26.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx26.png"
+  },
+  {
+    "pack_id": "pack-bx27",
+    "release_code": "BX-27",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx27.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx27.png"
+  },
+  {
+    "pack_id": "pack-bx28",
+    "release_code": "BX-28",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx28.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX28@1.png"
+  },
+  {
+    "pack_id": "pack-bx29",
+    "release_code": "BX-29",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx29.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX29@1.png"
+  },
+  {
+    "pack_id": "pack-bx30",
+    "release_code": "BX-30",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx30.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX30@1.png"
+  },
+  {
+    "pack_id": "pack-bx31",
+    "release_code": "BX-31",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx31.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx31.png"
+  },
+  {
+    "pack_id": "pack-bx32",
+    "release_code": "BX-32",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx32.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX32@1.png"
+  },
+  {
+    "pack_id": "pack-bx33",
+    "release_code": "BX-33",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx33.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx33.png"
+  },
+  {
+    "pack_id": "pack-bx34",
+    "release_code": "BX-34",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx34.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx34.png"
+  },
+  {
+    "pack_id": "pack-bx35",
+    "release_code": "BX-35",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx35.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx35.png"
+  },
+  {
+    "pack_id": "pack-bx36",
+    "release_code": "BX-36",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx36.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx36.png"
+  },
+  {
+    "pack_id": "pack-bx37",
+    "release_code": "BX-37",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx37.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx37.png"
+  },
+  {
+    "pack_id": "pack-bx38",
+    "release_code": "BX-38",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx38.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx38.png"
+  },
+  {
+    "pack_id": "pack-bx39",
+    "release_code": "BX-39",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx39.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_bx39.png"
+  },
+  {
+    "pack_id": "pack-bx40",
+    "release_code": "BX-40",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx40.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX40@1.png"
+  },
+  {
+    "pack_id": "pack-bx41",
+    "release_code": "BX-41",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx41.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX41@1.png"
+  },
+  {
+    "pack_id": "pack-bx42",
+    "release_code": "BX-42",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx42.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX42@1.png"
+  },
+  {
+    "pack_id": "pack-bx43",
+    "release_code": "BX-43",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx43.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX43@1.png"
+  },
+  {
+    "pack_id": "pack-bx44",
+    "release_code": "BX-44",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx44.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_BX44.png"
+  },
+  {
+    "pack_id": "pack-bx45",
+    "release_code": "BX-45",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx45.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_BX45.png"
+  },
+  {
+    "pack_id": "pack-bx46",
+    "release_code": "BX-46",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx46.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_BX46_01.png"
+  },
+  {
+    "pack_id": "pack-bx47",
+    "release_code": "BX-47",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx47.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/BX47@1.png"
+  },
+  {
+    "pack_id": "pack-bx48",
+    "release_code": "BX-48",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx48.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_BX48.png"
+  },
+  {
+    "pack_id": "pack-bx49",
+    "release_code": "BX-49",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-bx49.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_BX49.png"
+  },
+  {
+    "pack_id": "pack-cx01",
+    "release_code": "CX-01",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx01.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX01.png"
+  },
+  {
+    "pack_id": "pack-cx02",
+    "release_code": "CX-02",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx02.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX02.png"
+  },
+  {
+    "pack_id": "pack-cx03",
+    "release_code": "CX-03",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx03.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX03.png"
+  },
+  {
+    "pack_id": "pack-cx04",
+    "release_code": "CX-04",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx04.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX04_d.png"
+  },
+  {
+    "pack_id": "pack-cx05",
+    "release_code": "CX-05",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx05.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX05.png"
+  },
+  {
+    "pack_id": "pack-cx06",
+    "release_code": "CX-06",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx06.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX06.png"
+  },
+  {
+    "pack_id": "pack-cx07",
+    "release_code": "CX-07",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx07.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX07.png"
+  },
+  {
+    "pack_id": "pack-cx08",
+    "release_code": "CX-08",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx08.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX08.png"
+  },
+  {
+    "pack_id": "pack-cx09",
+    "release_code": "CX-09",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx09.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX09.png"
+  },
+  {
+    "pack_id": "pack-cx10",
+    "release_code": "CX-10",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx10.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX10.png"
+  },
+  {
+    "pack_id": "pack-cx11",
+    "release_code": "CX-11",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx11.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX11.png"
+  },
+  {
+    "pack_id": "pack-cx12",
+    "release_code": "CX-12",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx12.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX12.png"
+  },
+  {
+    "pack_id": "pack-cx13",
+    "release_code": "CX-13",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx13.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX13.png"
+  },
+  {
+    "pack_id": "pack-cx14",
+    "release_code": "CX-14",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx14.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX14.png"
+  },
+  {
+    "pack_id": "pack-cx15",
+    "release_code": "CX-15",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx15.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX15.png"
+  },
+  {
+    "pack_id": "pack-cx16",
+    "release_code": "CX-16",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-cx16.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_CX16.png"
+  },
+  {
+    "pack_id": "pack-f9578",
+    "release_code": "F9578",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-f9580",
+    "release_code": "F9580",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-f9581",
+    "release_code": "F9581",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-f9582",
+    "release_code": "F9582",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-f9583",
+    "release_code": "F9583",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-f9589",
+    "release_code": "F9589",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0184",
+    "release_code": "G0184",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0188",
+    "release_code": "G0188",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0190",
+    "release_code": "G0190",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0192",
+    "release_code": "G0192",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0193",
+    "release_code": "G0193",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0194",
+    "release_code": "G0194",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0195",
+    "release_code": "G0195",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0196",
+    "release_code": "G0196",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0197",
+    "release_code": "G0197",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0198",
+    "release_code": "G0198",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0199",
+    "release_code": "G0199",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0282",
+    "release_code": "G0282",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0283",
+    "release_code": "G0283",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0284",
+    "release_code": "G0284",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0285",
+    "release_code": "G0285",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0286",
+    "release_code": "G0286",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0287",
+    "release_code": "G0287",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0288",
+    "release_code": "G0288",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0290",
+    "release_code": "G0290",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0318",
+    "release_code": "G0318",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0352",
+    "release_code": "G0352",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0353",
+    "release_code": "G0353",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g0841",
+    "release_code": "G0841",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1530",
+    "release_code": "G1530",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1531",
+    "release_code": "G1531",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1533",
+    "release_code": "G1533",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1534",
+    "release_code": "G1534",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1536",
+    "release_code": "G1536",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1537",
+    "release_code": "G1537",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1538",
+    "release_code": "G1538",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1539",
+    "release_code": "G1539",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1542",
+    "release_code": "G1542",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1543",
+    "release_code": "G1543",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1669",
+    "release_code": "G1669",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1670",
+    "release_code": "G1670",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1671",
+    "release_code": "G1671",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1673",
+    "release_code": "G1673",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1674",
+    "release_code": "G1674",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1675",
+    "release_code": "G1675",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1676",
+    "release_code": "G1676",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1677",
+    "release_code": "G1677",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1678",
+    "release_code": "G1678",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1679",
+    "release_code": "G1679",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1680",
+    "release_code": "G1680",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1681",
+    "release_code": "G1681",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1682",
+    "release_code": "G1682",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1683",
+    "release_code": "G1683",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1684",
+    "release_code": "G1684",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1685",
+    "release_code": "G1685",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1686",
+    "release_code": "G1686",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1687",
+    "release_code": "G1687",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1688",
+    "release_code": "G1688",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1690",
+    "release_code": "G1690",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1691",
+    "release_code": "G1691",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1692",
+    "release_code": "G1692",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1694",
+    "release_code": "G1694",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1695",
+    "release_code": "G1695",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1751",
+    "release_code": "G1751",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1752",
+    "release_code": "G1752",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1754",
+    "release_code": "G1754",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1755",
+    "release_code": "G1755",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1756",
+    "release_code": "G1756",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1844",
+    "release_code": "G1844",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1863",
+    "release_code": "G1863",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1864",
+    "release_code": "G1864",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1898",
+    "release_code": "G1898",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g1899",
+    "release_code": "G1899",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2731",
+    "release_code": "G2731",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2732",
+    "release_code": "G2732",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2734",
+    "release_code": "G2734",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2738",
+    "release_code": "G2738",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2739",
+    "release_code": "G2739",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2740",
+    "release_code": "G2740",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2742",
+    "release_code": "G2742",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2746",
+    "release_code": "G2746",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2747",
+    "release_code": "G2747",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2748",
+    "release_code": "G2748",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2754",
+    "release_code": "G2754",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2755",
+    "release_code": "G2755",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g2758",
+    "release_code": "G2758",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g3195",
+    "release_code": "G3195",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g3392",
+    "release_code": "G3392",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g3393",
+    "release_code": "G3393",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g3497",
+    "release_code": "G3497",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g4561",
+    "release_code": "G4561",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g4562",
+    "release_code": "G4562",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g4563",
+    "release_code": "G4563",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g4571",
+    "release_code": "G4571",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-g4572",
+    "release_code": "G4572",
+    "manufacturer": "hasbro",
+    "status": "placeholder",
+    "reason": "hasbro_no_source",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/box_placeholder.webp",
+    "source_url": ""
+  },
+  {
+    "pack_id": "pack-ux01",
+    "release_code": "UX-01",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux01.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_ux01.png"
+  },
+  {
+    "pack_id": "pack-ux02",
+    "release_code": "UX-02",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux02.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/UX02@1.png"
+  },
+  {
+    "pack_id": "pack-ux03",
+    "release_code": "UX-03",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux03.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_ux03.png"
+  },
+  {
+    "pack_id": "pack-ux04",
+    "release_code": "UX-04",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux04.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_ux04A.png"
+  },
+  {
+    "pack_id": "pack-ux05",
+    "release_code": "UX-05",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux05.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_ux05.png"
+  },
+  {
+    "pack_id": "pack-ux06",
+    "release_code": "UX-06",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux06.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_ux06.png"
+  },
+  {
+    "pack_id": "pack-ux07",
+    "release_code": "UX-07",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux07.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_ux07_r.png"
+  },
+  {
+    "pack_id": "pack-ux08",
+    "release_code": "UX-08",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux08.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_ux08.png"
+  },
+  {
+    "pack_id": "pack-ux09",
+    "release_code": "UX-09",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux09.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_ux09.png"
+  },
+  {
+    "pack_id": "pack-ux10",
+    "release_code": "UX-10",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux10.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_ux10.png"
+  },
+  {
+    "pack_id": "pack-ux11",
+    "release_code": "UX-11",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux11.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_ux11.png"
+  },
+  {
+    "pack_id": "pack-ux12",
+    "release_code": "UX-12",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux12.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_ux12.png"
+  },
+  {
+    "pack_id": "pack-ux13",
+    "release_code": "UX-13",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux13.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_ux13.png"
+  },
+  {
+    "pack_id": "pack-ux14",
+    "release_code": "UX-14",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux14.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_UX14.png"
+  },
+  {
+    "pack_id": "pack-ux15",
+    "release_code": "UX-15",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux15.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_UX15.png"
+  },
+  {
+    "pack_id": "pack-ux16",
+    "release_code": "UX-16",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux16.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_UX16.png"
+  },
+  {
+    "pack_id": "pack-ux17",
+    "release_code": "UX-17",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux17.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_UX17.png"
+  },
+  {
+    "pack_id": "pack-ux18",
+    "release_code": "UX-18",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux18.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_UX18.png"
+  },
+  {
+    "pack_id": "pack-ux19",
+    "release_code": "UX-19",
+    "manufacturer": "takara_tomy",
+    "status": "downloaded",
+    "reason": "",
+    "public_url": "https://mdvauewlafpdmmqccqjg.supabase.co/storage/v1/object/public/beyblade-assets/packs/pack-ux19.webp",
+    "source_url": "https://beyblade.phstudy.org/images/products/detail_UX19.png"
+  }
+]
