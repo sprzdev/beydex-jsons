@@ -1,0 +1,4741 @@
+{
+  "meta": {
+    "total_packs": 179,
+    "takara_tomy": 84,
+    "hasbro": 95,
+    "total_pack_parts": 291,
+    "combos_parsed": 92,
+    "no_combo": 87,
+    "parts_resolved": 291,
+    "parts_unresolved": 0,
+    "note": "Audita antes de ejecutar insert_packs.py. Añade manualmente: Random Boosters en pack_parts, ASINs en pack_affiliate_links."
+  },
+  "packs": [
+    {
+      "id": "pack-bx01",
+      "release_code": "BX-01",
+      "name": "Starter DranSword 3-60F",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1980,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx02",
+      "release_code": "BX-02",
+      "name": "Starter HellsScythe 4-60T",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1980,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx03",
+      "release_code": "BX-03",
+      "name": "Starter WizardArrow 4-80B",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1980,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx04",
+      "release_code": "BX-04",
+      "name": "Starter KnightShield 3-80N",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1980,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx05",
+      "release_code": "BX-05",
+      "name": "Booster WizardArrow 4-80B",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx06",
+      "release_code": "BX-06",
+      "name": "Booster KnightShield 3-80N",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx07",
+      "release_code": "BX-07",
+      "name": "Start Dash Set",
+      "manufacturer": "takara_tomy",
+      "type": "set",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 5720,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx08",
+      "release_code": "BX-08",
+      "name": "3on3 Deck Set",
+      "manufacturer": "takara_tomy",
+      "type": "deck_set",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 3960,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx09",
+      "release_code": "BX-09",
+      "name": "Beybattle Pass",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 3300,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx10",
+      "release_code": "BX-10",
+      "name": "Xtreme Stadium",
+      "manufacturer": "takara_tomy",
+      "type": "stadium",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 2700,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx11",
+      "release_code": "BX-11",
+      "name": "Launcher Grip",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 700,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx12",
+      "release_code": "BX-12",
+      "name": "3on3 Deck Case",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 990,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx13",
+      "release_code": "BX-13",
+      "name": "Booster KnightLance 4-80HN",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-08-10",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx14",
+      "release_code": "BX-14",
+      "name": "Random Booster Vol. 1",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-09-09",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx15",
+      "release_code": "BX-15",
+      "name": "Starter LeonClaw 5-60P",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1980,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-10-07",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx16",
+      "release_code": "BX-16",
+      "name": "Random Booster ViperTail Select",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-10-07",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx17",
+      "release_code": "BX-17",
+      "name": "Battle Entry Set",
+      "manufacturer": "takara_tomy",
+      "type": "entry_set",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 6050,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-10-07",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx18",
+      "release_code": "BX-18",
+      "name": "String Launcher",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 990,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-10-07",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx19",
+      "release_code": "BX-19",
+      "name": "Booster RhinoHorn 3-80S",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-11-02",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx20",
+      "release_code": "BX-20",
+      "name": "DranDagger Deck Set",
+      "manufacturer": "takara_tomy",
+      "type": "deck_set",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 3960,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-11-02",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx21",
+      "release_code": "BX-21",
+      "name": "HellsChain Deck Set",
+      "manufacturer": "takara_tomy",
+      "type": "deck_set",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 3960,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-11-02",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx22",
+      "release_code": "BX-22",
+      "name": "DranSword 3-60F Entry Package",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-12-02",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx23",
+      "release_code": "BX-23",
+      "name": "Starter PhoenixWing 9-60GF",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 2420,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-12-27",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx24",
+      "release_code": "BX-24",
+      "name": "Random Booster Vol. 2",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-12-27",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx25",
+      "release_code": "BX-25",
+      "name": "Gear Case",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 4000,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2023-12-27",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx26",
+      "release_code": "BX-26",
+      "name": "Booster UnicornSting 5-60GP",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-01-27",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx27",
+      "release_code": "BX-27",
+      "name": "Random Booster SphinxCowl Select",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-02-22",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx28",
+      "release_code": "BX-28",
+      "name": "String Launcher (White Ver.)",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 990,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-03-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx29",
+      "release_code": "BX-29",
+      "name": "Custom Grip (White Ver.)",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1100,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-03-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx30",
+      "release_code": "BX-30",
+      "name": "Custom Grip (Red Ver.)",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1100,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-03-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx31",
+      "release_code": "BX-31",
+      "name": "Random Booster Vol. 3",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-04-27",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx32",
+      "release_code": "BX-32",
+      "name": "Wide Xtreme Stadium",
+      "manufacturer": "takara_tomy",
+      "type": "stadium",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 4400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-07-13",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx33",
+      "release_code": "BX-33",
+      "name": "Booster WeissTiger 3-60U",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-06-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx34",
+      "release_code": "BX-34",
+      "name": "Starter CobaltDragoon 2-60C",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 2321,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-07-13",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx35",
+      "release_code": "BX-35",
+      "name": "Random Booster Vol. 4",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-07-13",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx36",
+      "release_code": "BX-36",
+      "name": "Random Booster WhaleWave Select",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-09-14",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx37",
+      "release_code": "BX-37",
+      "name": "Double Xtreme Stadium Set",
+      "manufacturer": "takara_tomy",
+      "type": "stadium",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 8200,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-10-12",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx38",
+      "release_code": "BX-38",
+      "name": "Booster CrimsonGaruda 4-70TP",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-11-02",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx39",
+      "release_code": "BX-39",
+      "name": "Random Booster ShelterDrake Select",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-02-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx40",
+      "release_code": "BX-40",
+      "name": "Winder Launcher L",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 880,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-03-29",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx41",
+      "release_code": "BX-41",
+      "name": "Rubber Custom Grip (Gunmetal Ver.)",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1320,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-03-29",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx42",
+      "release_code": "BX-42",
+      "name": "Rubber Custom Grip (Blue Ver.)",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1320,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-03-29",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx43",
+      "release_code": "BX-43",
+      "name": "Gear Case (White Ver.)",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 4000,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-03-29",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx44",
+      "release_code": "BX-44",
+      "name": "Booster TriceraPress M-85BS",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1500,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-06-28",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx45",
+      "release_code": "BX-45",
+      "name": "Booster SamuraiCalibur 6-70M",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1500,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-08-09",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx46",
+      "release_code": "BX-46",
+      "name": "Battle Entry Set Infinity",
+      "manufacturer": "takara_tomy",
+      "type": "entry_set",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 7500,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-10-11",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx47",
+      "release_code": "BX-47",
+      "name": "String Launcher L (Red Ver.)",
+      "manufacturer": "takara_tomy",
+      "type": "accessory",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 990,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-10-11",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx48",
+      "release_code": "BX-48",
+      "name": "Random Booster Vol. 9",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 1600,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2026-02-14",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-bx49",
+      "release_code": "BX-49",
+      "name": "Starter DranStrike 4-50FF",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": 2200,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2026-05-16",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux01",
+      "release_code": "UX-01",
+      "name": "Starter DranBuster 1-60A",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 1980,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-03-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux02",
+      "release_code": "UX-02",
+      "name": "Starter HellsHammer 3-70H",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 1980,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-03-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux03",
+      "release_code": "UX-03",
+      "name": "Booster WizardRod 5-70DB",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-03-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux04",
+      "release_code": "UX-04",
+      "name": "Battle Entry Set U",
+      "manufacturer": "takara_tomy",
+      "type": "entry_set",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 6050,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-04-27",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux05",
+      "release_code": "UX-05",
+      "name": "Random Booster ShinobiShadow Select",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-05-18",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux06",
+      "release_code": "UX-06",
+      "name": "Booster LeonCrest 7-60GN",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-08-10",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux07",
+      "release_code": "UX-07",
+      "name": "PhoenixRudder Deck Set",
+      "manufacturer": "takara_tomy",
+      "type": "deck_set",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 4100,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-08-10",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux08",
+      "release_code": "UX-08",
+      "name": "Starter SilverWolf 3-80FB",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 2080,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-10-12",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux09",
+      "release_code": "UX-09",
+      "name": "Starter SamuraiSaber 2-70L",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 3300,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-11-02",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux10",
+      "release_code": "UX-10",
+      "name": "Customize Set U",
+      "manufacturer": "takara_tomy",
+      "type": "set",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 5700,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-11-02",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux11",
+      "release_code": "UX-11",
+      "name": "Starter ImpactDrake 9-60LR",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 2420,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-12-28",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux12",
+      "release_code": "UX-12",
+      "name": "Random Booster Vol. 5",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2024-12-28",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux13",
+      "release_code": "UX-13",
+      "name": "Booster GolemRock 1-60UN",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-01-25",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux14",
+      "release_code": "UX-14",
+      "name": "Starter ScorpioSpear 0-70Z",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 2200,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-04-26",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux15",
+      "release_code": "UX-15",
+      "name": "SharkScale Deck Set",
+      "manufacturer": "takara_tomy",
+      "type": "deck_set",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 4200,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-08-09",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux16",
+      "release_code": "UX-16",
+      "name": "Random Booster ClockMirage Select",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 1400,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-10-11",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux17",
+      "release_code": "UX-17",
+      "name": "Starter MeteorDragoon 3-70J",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 2300,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-12-27",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux18",
+      "release_code": "UX-18",
+      "name": "Random Booster Vol. 8",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 1600,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-12-27",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-ux19",
+      "release_code": "UX-19",
+      "name": "Starter BulletGriffon H",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "UX",
+      "image": null,
+      "price_jpy": 2600,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2026-04-25",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx01",
+      "release_code": "CX-01",
+      "name": "Starter DranBrave S6-60V",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 2200,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-03-29",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx02",
+      "release_code": "CX-02",
+      "name": "Starter WizardArc R4-55LO",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 2200,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-03-29",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx03",
+      "release_code": "CX-03",
+      "name": "Booster PerseusDark B6-80W",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 1600,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-03-29",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx04",
+      "release_code": "CX-04",
+      "name": "Battle Entry Set C",
+      "manufacturer": "takara_tomy",
+      "type": "entry_set",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 6501,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-03-29",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx05",
+      "release_code": "CX-05",
+      "name": "Random Booster Vol. 6",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 1600,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-04-26",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx06",
+      "release_code": "CX-06",
+      "name": "Random Booster FoxBrush Select",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 1600,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-05-17",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx07",
+      "release_code": "CX-07",
+      "name": "Starter PegasusBlast ATr",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 2600,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-07-19",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx08",
+      "release_code": "CX-08",
+      "name": "Random Booster Vol. 7",
+      "manufacturer": "takara_tomy",
+      "type": "random_booster",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 1600,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-07-19",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx09",
+      "release_code": "CX-09",
+      "name": "Starter SolEclipse D5-70TK",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 2500,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-09-27",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx10",
+      "release_code": "CX-10",
+      "name": "Booster WolfHunt F0-60DB",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 1700,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-11-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx11",
+      "release_code": "CX-11",
+      "name": "EmperorMight Deck Set",
+      "manufacturer": "takara_tomy",
+      "type": "deck_set",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 5000,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2025-11-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx12",
+      "release_code": "CX-12",
+      "name": "Booster PhoenixFlare Z9-80WW",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 1700,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2026-01-24",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx13",
+      "release_code": "CX-13",
+      "name": "Starter BahamutBlitz BK1-50I",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 2200,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2026-03-28",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx14",
+      "release_code": "CX-14",
+      "name": "Starter KnightFortress GV8-70UN",
+      "manufacturer": "takara_tomy",
+      "type": "starter",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 2200,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2026-03-28",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx15",
+      "release_code": "CX-15",
+      "name": "Booster RagnaRage FE4-55Y",
+      "manufacturer": "takara_tomy",
+      "type": "booster",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 1600,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2026-03-28",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-cx16",
+      "release_code": "CX-16",
+      "name": "Start Dash Set C",
+      "manufacturer": "takara_tomy",
+      "type": "set",
+      "line": "CX",
+      "image": null,
+      "price_jpy": 5650,
+      "price_usd": null,
+      "price_eur": null,
+      "release_date": "2026-03-28",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-f9580",
+      "release_code": "F9580",
+      "name": "Sword Dran 3-60F",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2024-05-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-f9581",
+      "release_code": "F9581",
+      "name": "Helm Knight 3-80N",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2024-05-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-f9582",
+      "release_code": "F9582",
+      "name": "Arrow Wizard 4-80B",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2024-05-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-f9583",
+      "release_code": "F9583",
+      "name": "Scythe Incendio 4-60T",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2024-05-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0184",
+      "release_code": "G0184",
+      "name": "Lance Knight 4-80HN",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2024-07-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0193",
+      "release_code": "G0193",
+      "name": "Claw Leon 5-60P",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2024-07-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1536",
+      "release_code": "G1536",
+      "name": "Buster Dran 1-60A",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2024-12-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1537",
+      "release_code": "G1537",
+      "name": "Wand Wizard 5-70DB",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2024-12-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1538",
+      "release_code": "G1538",
+      "name": "Wand Wizard 1-60R",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2024-12-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1539",
+      "release_code": "G1539",
+      "name": "Shadow Shinobi 1-80MN",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2024-12-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1673",
+      "release_code": "G1673",
+      "name": "Scarlet Garuda 4-70TP",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1674",
+      "release_code": "G1674",
+      "name": "Sterling Wolf 3-80FB",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1675",
+      "release_code": "G1675",
+      "name": "Shelter Drake 7-80GP",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1676",
+      "release_code": "G1676",
+      "name": "Rock Golem 1-60UN",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1751",
+      "release_code": "G1751",
+      "name": "Buster Dran 5-70DB",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1752",
+      "release_code": "G1752",
+      "name": "Hammer Incendio 3-70H",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2738",
+      "release_code": "G2738",
+      "name": "Stun Medusa 9-60GB",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2739",
+      "release_code": "G2739",
+      "name": "Rudder Phoenix 4-70LF",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2740",
+      "release_code": "G2740",
+      "name": "Feather Phoenix 2-60N",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1677",
+      "release_code": "G1677",
+      "name": "Courage Dran S 6-60V",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 12.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1678",
+      "release_code": "G1678",
+      "name": "Reaper Incendio T 4-70K",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 12.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1679",
+      "release_code": "G1679",
+      "name": "Arc Wizard R 4-55LO",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 12.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1680",
+      "release_code": "G1680",
+      "name": "Dark Perseus B 6-80W",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 12.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1681",
+      "release_code": "G1681",
+      "name": "Brush Fox J 9-70GR",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 12.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1682",
+      "release_code": "G1682",
+      "name": "Fort Hornet R 7-60T",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 12.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1683",
+      "release_code": "G1683",
+      "name": "Wriggle Kraken S 3-85O",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 12.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1684",
+      "release_code": "G1684",
+      "name": "Antler Stag B 2-60HN",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 12.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2746",
+      "release_code": "G2746",
+      "name": "Reaper Rhino C 4-55D",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 14.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2747",
+      "release_code": "G2747",
+      "name": "Flame Cerberus W 5-80WB",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 14.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2748",
+      "release_code": "G2748",
+      "name": "Fang Leon T 4-60U",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 14.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2742",
+      "release_code": "G2742",
+      "name": "Strike Dran 4-50FF",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 14.99,
+      "price_eur": null,
+      "release_date": "2026-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g3497",
+      "release_code": "G3497",
+      "name": "Valor Bison FB",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 14.99,
+      "price_eur": null,
+      "release_date": "2026-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g4561",
+      "release_code": "G4561",
+      "name": "Rocket Griffon H",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 14.99,
+      "price_eur": null,
+      "release_date": "2026-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g4562",
+      "release_code": "G4562",
+      "name": "Rage Ragna FE 4-55Y",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 14.99,
+      "price_eur": null,
+      "release_date": "2026-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g4563",
+      "release_code": "G4563",
+      "name": "Armor Knight GV 8-70UN",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 14.99,
+      "price_eur": null,
+      "release_date": "2026-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g4571",
+      "release_code": "G4571",
+      "name": "Ring Aether 0-80DS",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 14.99,
+      "price_eur": null,
+      "release_date": "2026-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g4572",
+      "release_code": "G4572",
+      "name": "Blitz Bahamut BK 1-50I",
+      "manufacturer": "hasbro",
+      "type": "starter",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 14.99,
+      "price_eur": null,
+      "release_date": "2026-07-15",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0188",
+      "release_code": "G0188",
+      "name": "Steel Samurai 4-80T",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2024-05-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0192",
+      "release_code": "G0192",
+      "name": "Horn Rhino 3-80S",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2024-05-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0194",
+      "release_code": "G0194",
+      "name": "Keel Shark 3-60LF",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2024-05-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0195",
+      "release_code": "G0195",
+      "name": "Talon Ptera 3-80B",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2024-05-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0283",
+      "release_code": "G0283",
+      "name": "Sting Unicorn 5-60GP",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2024-07-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0284",
+      "release_code": "G0284",
+      "name": "Roar Tyranno 9-60GF",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2024-07-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0285",
+      "release_code": "G0285",
+      "name": "Scythe Incendio 3-80B",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2024-07-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0286",
+      "release_code": "G0286",
+      "name": "Savage Bear 3-60S",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2024-07-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1530",
+      "release_code": "G1530",
+      "name": "Cowl Sphinx 9-80GN",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2024-12-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1531",
+      "release_code": "G1531",
+      "name": "Arrow Wizard 4-80GB",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2024-12-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1533",
+      "release_code": "G1533",
+      "name": "Obsidian Shell 4-60D",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1534",
+      "release_code": "G1534",
+      "name": "Keel Shark 1-60Q",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2025-02-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1669",
+      "release_code": "G1669",
+      "name": "Tide Whale 5-80E",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1670",
+      "release_code": "G1670",
+      "name": "Dagger Dran 4-70Q",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1671",
+      "release_code": "G1671",
+      "name": "Lance Knight 3-60LF",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1754",
+      "release_code": "G1754",
+      "name": "Yell Kong 3-60GB",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1755",
+      "release_code": "G1755",
+      "name": "Arrow Wizard 4-80O",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1756",
+      "release_code": "G1756",
+      "name": "Soar Phoenix 5-80H",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 11.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2731",
+      "release_code": "G2731",
+      "name": "Scale Shark 4-50UF",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 9.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2732",
+      "release_code": "G2732",
+      "name": "Shelter Drake 5-70O",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 9.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2734",
+      "release_code": "G2734",
+      "name": "Curse Mummy 7-55W",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 9.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g3392",
+      "release_code": "G3392",
+      "name": "Ridge Triceratops 9-80GN",
+      "manufacturer": "hasbro",
+      "type": "booster",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 9.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0190",
+      "release_code": "G0190",
+      "name": "Knife Shinobi and Keel Shark Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 22.99,
+      "price_eur": null,
+      "release_date": "2024-05-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0196",
+      "release_code": "G0196",
+      "name": "Chain Incendio and Arrow Wizard Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 22.99,
+      "price_eur": null,
+      "release_date": "2024-05-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0197",
+      "release_code": "G0197",
+      "name": "Tail Viper and Sword Dran Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 22.99,
+      "price_eur": null,
+      "release_date": "2024-05-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0198",
+      "release_code": "G0198",
+      "name": "Yell Kong and Helm Knight Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 22.99,
+      "price_eur": null,
+      "release_date": "2024-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0199",
+      "release_code": "G0199",
+      "name": "Bite Croc and Sting Unicorn Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 22.99,
+      "price_eur": null,
+      "release_date": "2024-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0282",
+      "release_code": "G0282",
+      "name": "Gale Wyvern and Tail Viper Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 22.99,
+      "price_eur": null,
+      "release_date": "2024-07-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1542",
+      "release_code": "G1542",
+      "name": "Beat Tyranno and Knife Shinobi Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 22.99,
+      "price_eur": null,
+      "release_date": "2024-12-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1543",
+      "release_code": "G1543",
+      "name": "Gale Wyvern and Sword Dran Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 22.99,
+      "price_eur": null,
+      "release_date": "2024-12-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1685",
+      "release_code": "G1685",
+      "name": "Cowl Sphinx and Crest Leon Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 22.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1686",
+      "release_code": "G1686",
+      "name": "Pearl Tiger and Gill Shark Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 22.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1687",
+      "release_code": "G1687",
+      "name": "Circle Ghost and Chain Incendio Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 22.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1688",
+      "release_code": "G1688",
+      "name": "Tackle Goat and Sword Dran Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 22.99,
+      "price_eur": null,
+      "release_date": "2025-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2754",
+      "release_code": "G2754",
+      "name": "Calibur Samurai and Obsidian Shell Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 17.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2755",
+      "release_code": "G2755",
+      "name": "Circle Ghost and Hack Viking Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 17.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g2758",
+      "release_code": "G2758",
+      "name": "Spear Scorpio and Tail Viper Dual Pack",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 17.99,
+      "price_eur": null,
+      "release_date": "2026-01-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-f9589",
+      "release_code": "F9589",
+      "name": "The Mandalorian and Moff Gideon Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 39.99,
+      "price_eur": null,
+      "release_date": "2024-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0287",
+      "release_code": "G0287",
+      "name": "Iron Man and Thanos Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 34.99,
+      "price_eur": null,
+      "release_date": "2024-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0288",
+      "release_code": "G0288",
+      "name": "Spider-Man and Venom Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 34.99,
+      "price_eur": null,
+      "release_date": "2024-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0290",
+      "release_code": "G0290",
+      "name": "Luke Skywalker and Darth Vader Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 39.99,
+      "price_eur": null,
+      "release_date": "2024-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0352",
+      "release_code": "G0352",
+      "name": "Optimus Primal and Starscream Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 34.99,
+      "price_eur": null,
+      "release_date": "2024-07-19",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0353",
+      "release_code": "G0353",
+      "name": "Optimus Prime and Megatron Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 34.99,
+      "price_eur": null,
+      "release_date": "2024-07-19",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1690",
+      "release_code": "G1690",
+      "name": "Captain America and Red Hulk Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 34.99,
+      "price_eur": null,
+      "release_date": "2025-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1691",
+      "release_code": "G1691",
+      "name": "Miles Morales and Green Goblin Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 34.99,
+      "price_eur": null,
+      "release_date": "2025-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1692",
+      "release_code": "G1692",
+      "name": "Bumblebee and Shockwave Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 34.99,
+      "price_eur": null,
+      "release_date": "2025-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1694",
+      "release_code": "G1694",
+      "name": "Obi-Wan Kenobi and General Grievous Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 39.99,
+      "price_eur": null,
+      "release_date": "2025-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1695",
+      "release_code": "G1695",
+      "name": "Chewbacca and Stormtrooper Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 29.99,
+      "price_eur": null,
+      "release_date": "2025-09-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1898",
+      "release_code": "G1898",
+      "name": "T. Rex and Mosasaurus Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 34.99,
+      "price_eur": null,
+      "release_date": "2025-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1899",
+      "release_code": "G1899",
+      "name": "Spinosaurus and Quetzalcoatlus Multipack Set",
+      "manufacturer": "hasbro",
+      "type": "multipack",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 34.99,
+      "price_eur": null,
+      "release_date": "2025-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1844",
+      "release_code": "G1844",
+      "name": "Beyblade 25th Anniversary Set",
+      "manufacturer": "hasbro",
+      "type": "set",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 109.99,
+      "price_eur": null,
+      "release_date": "2025-09-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g3195",
+      "release_code": "G3195",
+      "name": "X-treme Expansion Pack",
+      "manufacturer": "hasbro",
+      "type": "set",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 29.99,
+      "price_eur": null,
+      "release_date": "2026-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g3393",
+      "release_code": "G3393",
+      "name": "Yggdrasil Team Pack",
+      "manufacturer": "hasbro",
+      "type": "set",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 29.99,
+      "price_eur": null,
+      "release_date": "2026-01-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-f9578",
+      "release_code": "F9578",
+      "name": "Beystadium",
+      "manufacturer": "hasbro",
+      "type": "stadium",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 16.99,
+      "price_eur": null,
+      "release_date": "2024-05-30",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0318",
+      "release_code": "G0318",
+      "name": "Tournament Beystadium",
+      "manufacturer": "hasbro",
+      "type": "stadium",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 69.99,
+      "price_eur": null,
+      "release_date": "2024-06-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g0841",
+      "release_code": "G0841",
+      "name": "Clash & Carry Beystadium",
+      "manufacturer": "hasbro",
+      "type": "stadium",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 39.99,
+      "price_eur": null,
+      "release_date": "2025-01-20",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1863",
+      "release_code": "G1863",
+      "name": "Wide Beystadium",
+      "manufacturer": "hasbro",
+      "type": "stadium",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 59.99,
+      "price_eur": null,
+      "release_date": "2025-10-01",
+      "release_notes": null,
+      "is_available": true
+    },
+    {
+      "id": "pack-g1864",
+      "release_code": "G1864",
+      "name": "Double Xtreme Motorized Beystadium",
+      "manufacturer": "hasbro",
+      "type": "stadium",
+      "line": "BX",
+      "image": null,
+      "price_jpy": null,
+      "price_usd": 89.99,
+      "price_eur": null,
+      "release_date": "2025-10-01",
+      "release_notes": null,
+      "is_available": true
+    }
+  ],
+  "pack_parts": [
+    {
+      "pack_id": "pack-bx01",
+      "part_type": "blade",
+      "part_id": "blade-dransword",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx01",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx01",
+      "part_type": "bit",
+      "part_id": "bit-f",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx02",
+      "part_type": "blade",
+      "part_id": "blade-hellsscythe",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx02",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx02",
+      "part_type": "bit",
+      "part_id": "bit-t",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx03",
+      "part_type": "blade",
+      "part_id": "blade-wizardarrow",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx03",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx03",
+      "part_type": "bit",
+      "part_id": "bit-b",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx04",
+      "part_type": "blade",
+      "part_id": "blade-knightshield",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx04",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx04",
+      "part_type": "bit",
+      "part_id": "bit-n",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx05",
+      "part_type": "blade",
+      "part_id": "blade-wizardarrow",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx05",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx05",
+      "part_type": "bit",
+      "part_id": "bit-b",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx06",
+      "part_type": "blade",
+      "part_id": "blade-knightshield",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx06",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx06",
+      "part_type": "bit",
+      "part_id": "bit-n",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx13",
+      "part_type": "blade",
+      "part_id": "blade-knightlance",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx13",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx13",
+      "part_type": "bit",
+      "part_id": "bit-hn",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx15",
+      "part_type": "blade",
+      "part_id": "blade-leonclaw",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx15",
+      "part_type": "ratchet",
+      "part_id": "ratchet-5-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx15",
+      "part_type": "bit",
+      "part_id": "bit-p",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx19",
+      "part_type": "blade",
+      "part_id": "blade-rhinohorn",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx19",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx19",
+      "part_type": "bit",
+      "part_id": "bit-s",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx23",
+      "part_type": "blade",
+      "part_id": "blade-phoenixwing",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx23",
+      "part_type": "ratchet",
+      "part_id": "ratchet-9-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx23",
+      "part_type": "bit",
+      "part_id": "bit-gf",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx26",
+      "part_type": "blade",
+      "part_id": "blade-unicornsting",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx26",
+      "part_type": "ratchet",
+      "part_id": "ratchet-5-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx26",
+      "part_type": "bit",
+      "part_id": "bit-gp",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx33",
+      "part_type": "blade",
+      "part_id": "blade-weisstiger",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx33",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx33",
+      "part_type": "bit",
+      "part_id": "bit-u",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx34",
+      "part_type": "blade",
+      "part_id": "blade-cobaltdragoon",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx34",
+      "part_type": "ratchet",
+      "part_id": "ratchet-2-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx34",
+      "part_type": "bit",
+      "part_id": "bit-c",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx38",
+      "part_type": "blade",
+      "part_id": "blade-crimsongaruda",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx38",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx38",
+      "part_type": "bit",
+      "part_id": "bit-tp",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx45",
+      "part_type": "blade",
+      "part_id": "blade-samuraicalibur",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx45",
+      "part_type": "ratchet",
+      "part_id": "ratchet-6-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx45",
+      "part_type": "bit",
+      "part_id": "bit-m",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx49",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-50",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-bx49",
+      "part_type": "bit",
+      "part_id": "bit-ff",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux01",
+      "part_type": "blade",
+      "part_id": "blade-dranbuster",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux01",
+      "part_type": "ratchet",
+      "part_id": "ratchet-1-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux01",
+      "part_type": "bit",
+      "part_id": "bit-a",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux02",
+      "part_type": "blade",
+      "part_id": "blade-hellshammer",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux02",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux02",
+      "part_type": "bit",
+      "part_id": "bit-h",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux03",
+      "part_type": "blade",
+      "part_id": "blade-wizardrod",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux03",
+      "part_type": "ratchet",
+      "part_id": "ratchet-5-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux03",
+      "part_type": "bit",
+      "part_id": "bit-db",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux06",
+      "part_type": "blade",
+      "part_id": "blade-leoncrest",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux06",
+      "part_type": "ratchet",
+      "part_id": "ratchet-7-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux06",
+      "part_type": "bit",
+      "part_id": "bit-gn",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux08",
+      "part_type": "blade",
+      "part_id": "blade-silverwolf",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux08",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux08",
+      "part_type": "bit",
+      "part_id": "bit-fb",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux09",
+      "part_type": "blade",
+      "part_id": "blade-samuraisaber",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux09",
+      "part_type": "ratchet",
+      "part_id": "ratchet-2-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux09",
+      "part_type": "bit",
+      "part_id": "bit-l",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux11",
+      "part_type": "blade",
+      "part_id": "blade-impactdrake",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux11",
+      "part_type": "ratchet",
+      "part_id": "ratchet-9-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux11",
+      "part_type": "bit",
+      "part_id": "bit-lr",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux13",
+      "part_type": "blade",
+      "part_id": "blade-golemrock",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux13",
+      "part_type": "ratchet",
+      "part_id": "ratchet-1-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux13",
+      "part_type": "bit",
+      "part_id": "bit-un",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux14",
+      "part_type": "blade",
+      "part_id": "blade-scorpiospear",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux14",
+      "part_type": "ratchet",
+      "part_id": "ratchet-0-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux14",
+      "part_type": "bit",
+      "part_id": "bit-z",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux17",
+      "part_type": "blade",
+      "part_id": "blade-meteordragoon",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux17",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-ux17",
+      "part_type": "bit",
+      "part_id": "bit-j",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx01",
+      "part_type": "blade",
+      "part_id": "blade-dranbrave",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx01",
+      "part_type": "ratchet",
+      "part_id": "ratchet-6-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx01",
+      "part_type": "bit",
+      "part_id": "bit-v",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx01",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-sslash",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx02",
+      "part_type": "blade",
+      "part_id": "blade-wizardarc",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx02",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-55",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx02",
+      "part_type": "bit",
+      "part_id": "bit-lo",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx02",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-rround",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx03",
+      "part_type": "blade",
+      "part_id": "blade-perseusdark",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx03",
+      "part_type": "ratchet",
+      "part_id": "ratchet-6-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx03",
+      "part_type": "bit",
+      "part_id": "bit-w",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx03",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-bbumper",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx09",
+      "part_type": "blade",
+      "part_id": "blade-soleclipse",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx09",
+      "part_type": "ratchet",
+      "part_id": "ratchet-5-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx09",
+      "part_type": "bit",
+      "part_id": "bit-tk",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx09",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-ddual",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx10",
+      "part_type": "blade",
+      "part_id": "blade-wolfhunt",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx10",
+      "part_type": "ratchet",
+      "part_id": "ratchet-0-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx10",
+      "part_type": "bit",
+      "part_id": "bit-db",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx10",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-ffree",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx12",
+      "part_type": "blade",
+      "part_id": "blade-phoenixflare",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx12",
+      "part_type": "ratchet",
+      "part_id": "ratchet-9-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx12",
+      "part_type": "bit",
+      "part_id": "bit-ww",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx12",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-zzillion",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx13",
+      "part_type": "blade",
+      "part_id": "blade-bahamutblitz",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx13",
+      "part_type": "ratchet",
+      "part_id": "ratchet-1-50",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx13",
+      "part_type": "bit",
+      "part_id": "bit-i",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx14",
+      "part_type": "blade",
+      "part_id": "blade-knightfortress",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx14",
+      "part_type": "ratchet",
+      "part_id": "ratchet-8-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx14",
+      "part_type": "bit",
+      "part_id": "bit-un",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx15",
+      "part_type": "blade",
+      "part_id": "blade-ragnarage",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx15",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-55",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-cx15",
+      "part_type": "bit",
+      "part_id": "bit-yielding",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-f9580",
+      "part_type": "blade",
+      "part_id": "blade-dransword",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-f9580",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-f9580",
+      "part_type": "bit",
+      "part_id": "bit-f",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-f9581",
+      "part_type": "blade",
+      "part_id": "blade-knightshield",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-f9581",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-f9581",
+      "part_type": "bit",
+      "part_id": "bit-n",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-f9582",
+      "part_type": "blade",
+      "part_id": "blade-wizardarrow",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-f9582",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-f9582",
+      "part_type": "bit",
+      "part_id": "bit-b",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-f9583",
+      "part_type": "blade",
+      "part_id": "blade-hellsscythe",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-f9583",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-f9583",
+      "part_type": "bit",
+      "part_id": "bit-t",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0184",
+      "part_type": "blade",
+      "part_id": "blade-knightlance",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0184",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0184",
+      "part_type": "bit",
+      "part_id": "bit-hn",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0193",
+      "part_type": "blade",
+      "part_id": "blade-leonclaw",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0193",
+      "part_type": "ratchet",
+      "part_id": "ratchet-5-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0193",
+      "part_type": "bit",
+      "part_id": "bit-p",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1536",
+      "part_type": "blade",
+      "part_id": "blade-dranbuster",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1536",
+      "part_type": "ratchet",
+      "part_id": "ratchet-1-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1536",
+      "part_type": "bit",
+      "part_id": "bit-a",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1537",
+      "part_type": "blade",
+      "part_id": "blade-wizardrod",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1537",
+      "part_type": "ratchet",
+      "part_id": "ratchet-5-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1537",
+      "part_type": "bit",
+      "part_id": "bit-db",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1538",
+      "part_type": "blade",
+      "part_id": "blade-wizardrod",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1538",
+      "part_type": "ratchet",
+      "part_id": "ratchet-1-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1538",
+      "part_type": "bit",
+      "part_id": "bit-r",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1539",
+      "part_type": "blade",
+      "part_id": "blade-shinobishadow",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1539",
+      "part_type": "ratchet",
+      "part_id": "ratchet-1-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1539",
+      "part_type": "bit",
+      "part_id": "bit-mn",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1673",
+      "part_type": "blade",
+      "part_id": "blade-crimsongaruda",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1673",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1673",
+      "part_type": "bit",
+      "part_id": "bit-tp",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1674",
+      "part_type": "blade",
+      "part_id": "blade-silverwolf",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1674",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1674",
+      "part_type": "bit",
+      "part_id": "bit-fb",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1675",
+      "part_type": "blade",
+      "part_id": "blade-shelterdrake",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1675",
+      "part_type": "ratchet",
+      "part_id": "ratchet-7-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1675",
+      "part_type": "bit",
+      "part_id": "bit-gp",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1676",
+      "part_type": "blade",
+      "part_id": "blade-golemrock",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1676",
+      "part_type": "ratchet",
+      "part_id": "ratchet-1-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1676",
+      "part_type": "bit",
+      "part_id": "bit-un",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1751",
+      "part_type": "blade",
+      "part_id": "blade-dranbuster",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1751",
+      "part_type": "ratchet",
+      "part_id": "ratchet-5-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1751",
+      "part_type": "bit",
+      "part_id": "bit-db",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1752",
+      "part_type": "blade",
+      "part_id": "blade-hellshammer",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1752",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1752",
+      "part_type": "bit",
+      "part_id": "bit-h",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2738",
+      "part_type": "blade",
+      "part_id": "blade-stunmedusa",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2738",
+      "part_type": "ratchet",
+      "part_id": "ratchet-9-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2738",
+      "part_type": "bit",
+      "part_id": "bit-gb",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2739",
+      "part_type": "blade",
+      "part_id": "blade-phoenixrudder",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2739",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2739",
+      "part_type": "bit",
+      "part_id": "bit-lf",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2740",
+      "part_type": "blade",
+      "part_id": "blade-phoenixfeather",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2740",
+      "part_type": "ratchet",
+      "part_id": "ratchet-2-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2740",
+      "part_type": "bit",
+      "part_id": "bit-n",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1677",
+      "part_type": "blade",
+      "part_id": "blade-dranbrave",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1677",
+      "part_type": "ratchet",
+      "part_id": "ratchet-6-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1677",
+      "part_type": "bit",
+      "part_id": "bit-v",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1677",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-sslash",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1678",
+      "part_type": "blade",
+      "part_id": "blade-hellsreaper",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1678",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1678",
+      "part_type": "bit",
+      "part_id": "bit-k",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1678",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-tturn",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1679",
+      "part_type": "blade",
+      "part_id": "blade-wizardarc",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1679",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-55",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1679",
+      "part_type": "bit",
+      "part_id": "bit-lo",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1679",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-rround",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1680",
+      "part_type": "blade",
+      "part_id": "blade-perseusdark",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1680",
+      "part_type": "ratchet",
+      "part_id": "ratchet-6-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1680",
+      "part_type": "bit",
+      "part_id": "bit-w",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1680",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-bbumper",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1681",
+      "part_type": "blade",
+      "part_id": "blade-foxbrush",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1681",
+      "part_type": "ratchet",
+      "part_id": "ratchet-9-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1681",
+      "part_type": "bit",
+      "part_id": "bit-gr",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1681",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-jjaggy",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1682",
+      "part_type": "blade",
+      "part_id": "blade-forthornet",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1682",
+      "part_type": "ratchet",
+      "part_id": "ratchet-7-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1682",
+      "part_type": "bit",
+      "part_id": "bit-t",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1682",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-rround",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1683",
+      "part_type": "blade",
+      "part_id": "blade-krakenwriggle",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1683",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-85",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1683",
+      "part_type": "bit",
+      "part_id": "bit-o",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1683",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-sslash",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1684",
+      "part_type": "blade",
+      "part_id": "blade-antlerstag",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1684",
+      "part_type": "ratchet",
+      "part_id": "ratchet-2-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1684",
+      "part_type": "bit",
+      "part_id": "bit-hn",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1684",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-bbumper",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2746",
+      "part_type": "blade",
+      "part_id": "blade-rhinoreaper",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2746",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-55",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2746",
+      "part_type": "bit",
+      "part_id": "bit-d",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2746",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-ccharge",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2747",
+      "part_type": "blade",
+      "part_id": "blade-cerberusflame",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2747",
+      "part_type": "ratchet",
+      "part_id": "ratchet-5-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2747",
+      "part_type": "bit",
+      "part_id": "bit-wb",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2747",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-wwheel",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2748",
+      "part_type": "blade",
+      "part_id": "blade-leonfangredver",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2748",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2748",
+      "part_type": "bit",
+      "part_id": "bit-u",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2748",
+      "part_type": "assist_blade",
+      "part_id": "assist-blade-tturn",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2742",
+      "part_type": "blade",
+      "part_id": "blade-strikedran",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2742",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-50",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2742",
+      "part_type": "bit",
+      "part_id": "bit-ff",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g4562",
+      "part_type": "blade",
+      "part_id": "blade-ragnarage",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g4562",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-55",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g4562",
+      "part_type": "bit",
+      "part_id": "bit-yielding",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g4563",
+      "part_type": "blade",
+      "part_id": "blade-knightfortress",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g4563",
+      "part_type": "ratchet",
+      "part_id": "ratchet-8-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g4563",
+      "part_type": "bit",
+      "part_id": "bit-un",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g4571",
+      "part_type": "blade",
+      "part_id": "blade-ringaether",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g4571",
+      "part_type": "ratchet",
+      "part_id": "ratchet-0-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g4571",
+      "part_type": "bit",
+      "part_id": "bit-ds",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g4572",
+      "part_type": "blade",
+      "part_id": "blade-bahamutblitz",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g4572",
+      "part_type": "ratchet",
+      "part_id": "ratchet-1-50",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g4572",
+      "part_type": "bit",
+      "part_id": "bit-i",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0188",
+      "part_type": "blade",
+      "part_id": "blade-samuraisaber",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0188",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0188",
+      "part_type": "bit",
+      "part_id": "bit-t",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0192",
+      "part_type": "blade",
+      "part_id": "blade-rhinohorn",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0192",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0192",
+      "part_type": "bit",
+      "part_id": "bit-s",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0194",
+      "part_type": "blade",
+      "part_id": "blade-sharkedge",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0194",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0194",
+      "part_type": "bit",
+      "part_id": "bit-lf",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0195",
+      "part_type": "blade",
+      "part_id": "blade-pteraswing",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0195",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0195",
+      "part_type": "bit",
+      "part_id": "bit-b",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0283",
+      "part_type": "blade",
+      "part_id": "blade-unicornsting",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0283",
+      "part_type": "ratchet",
+      "part_id": "ratchet-5-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0283",
+      "part_type": "bit",
+      "part_id": "bit-gp",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0284",
+      "part_type": "ratchet",
+      "part_id": "ratchet-9-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0284",
+      "part_type": "bit",
+      "part_id": "bit-gf",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0285",
+      "part_type": "blade",
+      "part_id": "blade-hellsscythe",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0285",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0285",
+      "part_type": "bit",
+      "part_id": "bit-b",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0286",
+      "part_type": "blade",
+      "part_id": "blade-bearscratch",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0286",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g0286",
+      "part_type": "bit",
+      "part_id": "bit-s",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1530",
+      "part_type": "blade",
+      "part_id": "blade-sphinxcowl",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1530",
+      "part_type": "ratchet",
+      "part_id": "ratchet-9-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1530",
+      "part_type": "bit",
+      "part_id": "bit-gn",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1531",
+      "part_type": "blade",
+      "part_id": "blade-wizardarrow",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1531",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1531",
+      "part_type": "bit",
+      "part_id": "bit-gb",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1533",
+      "part_type": "blade",
+      "part_id": "blade-blackshell",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1533",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1533",
+      "part_type": "bit",
+      "part_id": "bit-d",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1534",
+      "part_type": "blade",
+      "part_id": "blade-sharkedge",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1534",
+      "part_type": "ratchet",
+      "part_id": "ratchet-1-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1534",
+      "part_type": "bit",
+      "part_id": "bit-q",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1669",
+      "part_type": "blade",
+      "part_id": "blade-whalewave",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1669",
+      "part_type": "ratchet",
+      "part_id": "ratchet-5-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1669",
+      "part_type": "bit",
+      "part_id": "bit-e",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1670",
+      "part_type": "blade",
+      "part_id": "blade-drandagger",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1670",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1670",
+      "part_type": "bit",
+      "part_id": "bit-q",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1671",
+      "part_type": "blade",
+      "part_id": "blade-knightlance",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1671",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1671",
+      "part_type": "bit",
+      "part_id": "bit-lf",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1754",
+      "part_type": "blade",
+      "part_id": "blade-yellkong",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1754",
+      "part_type": "ratchet",
+      "part_id": "ratchet-3-60",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1754",
+      "part_type": "bit",
+      "part_id": "bit-gb",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1755",
+      "part_type": "blade",
+      "part_id": "blade-wizardarrow",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1755",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1755",
+      "part_type": "bit",
+      "part_id": "bit-o",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1756",
+      "part_type": "blade",
+      "part_id": "blade-phoenixwing",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1756",
+      "part_type": "ratchet",
+      "part_id": "ratchet-5-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g1756",
+      "part_type": "bit",
+      "part_id": "bit-h",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2731",
+      "part_type": "blade",
+      "part_id": "blade-sharkscale",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2731",
+      "part_type": "ratchet",
+      "part_id": "ratchet-4-50",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2731",
+      "part_type": "bit",
+      "part_id": "bit-uf",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2732",
+      "part_type": "blade",
+      "part_id": "blade-shelterdrake",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2732",
+      "part_type": "ratchet",
+      "part_id": "ratchet-5-70",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2732",
+      "part_type": "bit",
+      "part_id": "bit-o",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2734",
+      "part_type": "blade",
+      "part_id": "blade-mummycurse",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2734",
+      "part_type": "ratchet",
+      "part_id": "ratchet-7-55",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g2734",
+      "part_type": "bit",
+      "part_id": "bit-w",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g3392",
+      "part_type": "blade",
+      "part_id": "blade-tricerapress",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g3392",
+      "part_type": "ratchet",
+      "part_id": "ratchet-9-80",
+      "is_guaranteed": true,
+      "slot_group": null
+    },
+    {
+      "pack_id": "pack-g3392",
+      "part_type": "bit",
+      "part_id": "bit-gn",
+      "is_guaranteed": true,
+      "slot_group": null
+    }
+  ],
+  "pack_beys": [],
+  "pack_affiliate_links": []
+}
