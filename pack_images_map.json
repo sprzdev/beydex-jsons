@@ -1,0 +1,1434 @@
+[
+  {
+    "pack_id": "pack-bx01",
+    "release_code": "BX-01",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx01.webp",
+    "storage_path": "packs/pack-bx01.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61y5M6jL3YL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx02",
+    "release_code": "BX-02",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx02.webp",
+    "storage_path": "packs/pack-bx02.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61aJExH96+L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx03",
+    "release_code": "BX-03",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx03.webp",
+    "storage_path": "packs/pack-bx03.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61OcR12oxFL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx04",
+    "release_code": "BX-04",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx04.webp",
+    "storage_path": "packs/pack-bx04.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61uRtZD63RL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx05",
+    "release_code": "BX-05",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx05.webp",
+    "storage_path": "packs/pack-bx05.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61fpYyCip3L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx06",
+    "release_code": "BX-06",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx06.webp",
+    "storage_path": "packs/pack-bx06.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61FEoidEmsL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx07",
+    "release_code": "BX-07",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx07.webp",
+    "storage_path": "packs/pack-bx07.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61AQJa-Ha6L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx08",
+    "release_code": "BX-08",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx08.webp",
+    "storage_path": "packs/pack-bx08.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71lBVzvQaAL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx09",
+    "release_code": "BX-09",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx09.webp",
+    "storage_path": "packs/pack-bx09.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/51BbPk+4XdL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx10",
+    "release_code": "BX-10",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx10.webp",
+    "storage_path": "packs/pack-bx10.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/516r5DrOFDL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx11",
+    "release_code": "BX-11",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx11.webp",
+    "storage_path": "packs/pack-bx11.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/41I+55DN8yL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx12",
+    "release_code": "BX-12",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx12.webp",
+    "storage_path": "packs/pack-bx12.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/51PL6455BQL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx13",
+    "release_code": "BX-13",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx13.webp",
+    "storage_path": "packs/pack-bx13.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61q5E77MepL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx14",
+    "release_code": "BX-14",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx14.webp",
+    "storage_path": "packs/pack-bx14.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61xaqAUJbSL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx15",
+    "release_code": "BX-15",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx15.webp",
+    "storage_path": "packs/pack-bx15.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61uSj-G6M-L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx16",
+    "release_code": "BX-16",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx16.webp",
+    "storage_path": "packs/pack-bx16.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61a+R-A9rTL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx17",
+    "release_code": "BX-17",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx17.webp",
+    "storage_path": "packs/pack-bx17.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/715fF9XOWgL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx18",
+    "release_code": "BX-18",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx18.webp",
+    "storage_path": "packs/pack-bx18.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/516yKZ3Y0oL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx19",
+    "release_code": "BX-19",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx19.webp",
+    "storage_path": "packs/pack-bx19.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61rRlWgjv7L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx20",
+    "release_code": "BX-20",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx20.webp",
+    "storage_path": "packs/pack-bx20.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61-CxbqhYFL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx21",
+    "release_code": "BX-21",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx21.webp",
+    "storage_path": "packs/pack-bx21.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61X6nIdSifL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx22",
+    "release_code": "BX-22",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx22.webp",
+    "storage_path": "packs/pack-bx22.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61Imm1LbK1L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx23",
+    "release_code": "BX-23",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx23.webp",
+    "storage_path": "packs/pack-bx23.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/715NtHVPy-L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx24",
+    "release_code": "BX-24",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx24.webp",
+    "storage_path": "packs/pack-bx24.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/614YWQ1P4jL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx25",
+    "release_code": "BX-25",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx25.webp",
+    "storage_path": "packs/pack-bx25.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/619ruy98JUL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx26",
+    "release_code": "BX-26",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx26.webp",
+    "storage_path": "packs/pack-bx26.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61Zaw9+aHmL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx27",
+    "release_code": "BX-27",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx27.webp",
+    "storage_path": "packs/pack-bx27.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/516r5DrOFDL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx28",
+    "release_code": "BX-28",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx28.webp",
+    "storage_path": "packs/pack-bx28.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/51Ci1YS8BxL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx29",
+    "release_code": "BX-29",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx29.webp",
+    "storage_path": "packs/pack-bx29.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/51Hk4KXgveL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx30",
+    "release_code": "BX-30",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx30.webp",
+    "storage_path": "packs/pack-bx30.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/513k6XI4P0L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx31",
+    "release_code": "BX-31",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx31.webp",
+    "storage_path": "packs/pack-bx31.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61j+1vOw4iL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx32",
+    "release_code": "BX-32",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx32.webp",
+    "storage_path": "packs/pack-bx32.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/517cbQWO7qL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx33",
+    "release_code": "BX-33",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx33.webp",
+    "storage_path": "packs/pack-bx33.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61mBrZQ8sKL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx34",
+    "release_code": "BX-34",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx34.webp",
+    "storage_path": "packs/pack-bx34.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61LOQ-xHnQL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx35",
+    "release_code": "BX-35",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx35.webp",
+    "storage_path": "packs/pack-bx35.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61rW28sHQPL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx36",
+    "release_code": "BX-36",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx36.webp",
+    "storage_path": "packs/pack-bx36.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61jDRxmeTsL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx37",
+    "release_code": "BX-37",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx37.webp",
+    "storage_path": "packs/pack-bx37.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/611eYwWAd8L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx38",
+    "release_code": "BX-38",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx38.webp",
+    "storage_path": "packs/pack-bx38.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61q5jy4IkFL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx39",
+    "release_code": "BX-39",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx39.webp",
+    "storage_path": "packs/pack-bx39.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61B0Tm9q6FL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx40",
+    "release_code": "BX-40",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx40.webp",
+    "storage_path": "packs/pack-bx40.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/41dY7xFDNYL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx41",
+    "release_code": "BX-41",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx41.webp",
+    "storage_path": "packs/pack-bx41.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/51nupFqvG0L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx42",
+    "release_code": "BX-42",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx42.webp",
+    "storage_path": "packs/pack-bx42.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61mZ7W9rbsL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx43",
+    "release_code": "BX-43",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx43.webp",
+    "storage_path": "packs/pack-bx43.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/511H5QhxO+L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx44",
+    "release_code": "BX-44",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx44.webp",
+    "storage_path": "packs/pack-bx44.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61uqJHueE4L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx45",
+    "release_code": "BX-45",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx45.webp",
+    "storage_path": "packs/pack-bx45.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61r02QY+sgL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx46",
+    "release_code": "BX-46",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx46.webp",
+    "storage_path": "packs/pack-bx46.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/617aJK-SJDL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx47",
+    "release_code": "BX-47",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx47.webp",
+    "storage_path": "packs/pack-bx47.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/51tLLvv212L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx48",
+    "release_code": "BX-48",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx48.webp",
+    "storage_path": "packs/pack-bx48.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-bx49",
+    "release_code": "BX-49",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-bx49.webp",
+    "storage_path": "packs/pack-bx49.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61Xqy93GdAL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux01",
+    "release_code": "UX-01",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux01.webp",
+    "storage_path": "packs/pack-ux01.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61WT-74luQL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux02",
+    "release_code": "UX-02",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux02.webp",
+    "storage_path": "packs/pack-ux02.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61opHnPSc9L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux03",
+    "release_code": "UX-03",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux03.webp",
+    "storage_path": "packs/pack-ux03.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/611gwoTOetL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux04",
+    "release_code": "UX-04",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux04.webp",
+    "storage_path": "packs/pack-ux04.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61RNnRJffxL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux05",
+    "release_code": "UX-05",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux05.webp",
+    "storage_path": "packs/pack-ux05.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61A1pHMBqOL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux06",
+    "release_code": "UX-06",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux06.webp",
+    "storage_path": "packs/pack-ux06.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61Hddyysl2L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux07",
+    "release_code": "UX-07",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux07.webp",
+    "storage_path": "packs/pack-ux07.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61lCdrqMoTL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux08",
+    "release_code": "UX-08",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux08.webp",
+    "storage_path": "packs/pack-ux08.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux09",
+    "release_code": "UX-09",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux09.webp",
+    "storage_path": "packs/pack-ux09.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61jv21uYbaL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux10",
+    "release_code": "UX-10",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux10.webp",
+    "storage_path": "packs/pack-ux10.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61tmvdA7-HL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux11",
+    "release_code": "UX-11",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux11.webp",
+    "storage_path": "packs/pack-ux11.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61kINR1gxbL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux12",
+    "release_code": "UX-12",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux12.webp",
+    "storage_path": "packs/pack-ux12.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61l2REhzwqL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux13",
+    "release_code": "UX-13",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux13.webp",
+    "storage_path": "packs/pack-ux13.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61xghlKktcL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux14",
+    "release_code": "UX-14",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux14.webp",
+    "storage_path": "packs/pack-ux14.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/712keT+tMML._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux15",
+    "release_code": "UX-15",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux15.webp",
+    "storage_path": "packs/pack-ux15.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61UJuDqe8KL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux16",
+    "release_code": "UX-16",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux16.webp",
+    "storage_path": "packs/pack-ux16.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61kLEYAvp4L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux17",
+    "release_code": "UX-17",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux17.webp",
+    "storage_path": "packs/pack-ux17.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux18",
+    "release_code": "UX-18",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux18.webp",
+    "storage_path": "packs/pack-ux18.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61bFFvQNM2L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-ux19",
+    "release_code": "UX-19",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-ux19.webp",
+    "storage_path": "packs/pack-ux19.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61khMPSZLZL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx01",
+    "release_code": "CX-01",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx01.webp",
+    "storage_path": "packs/pack-cx01.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61MpAh-qOsL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx02",
+    "release_code": "CX-02",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx02.webp",
+    "storage_path": "packs/pack-cx02.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61qO6OBNzBL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx03",
+    "release_code": "CX-03",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx03.webp",
+    "storage_path": "packs/pack-cx03.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61qzUglMgEL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx04",
+    "release_code": "CX-04",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx04.webp",
+    "storage_path": "packs/pack-cx04.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61RNnRJffxL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx05",
+    "release_code": "CX-05",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx05.webp",
+    "storage_path": "packs/pack-cx05.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/611c0mktBHL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx06",
+    "release_code": "CX-06",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx06.webp",
+    "storage_path": "packs/pack-cx06.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71Q3sIW1H+L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx07",
+    "release_code": "CX-07",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx07.webp",
+    "storage_path": "packs/pack-cx07.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61+3io3McIL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx08",
+    "release_code": "CX-08",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx08.webp",
+    "storage_path": "packs/pack-cx08.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61gZqxTP8oL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx09",
+    "release_code": "CX-09",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx09.webp",
+    "storage_path": "packs/pack-cx09.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71DPaTFm20L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx10",
+    "release_code": "CX-10",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx10.webp",
+    "storage_path": "packs/pack-cx10.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71myiiLXiRL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx11",
+    "release_code": "CX-11",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx11.webp",
+    "storage_path": "packs/pack-cx11.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61WEAT7WNKL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx12",
+    "release_code": "CX-12",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx12.webp",
+    "storage_path": "packs/pack-cx12.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/616LLncUykL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx13",
+    "release_code": "CX-13",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx13.webp",
+    "storage_path": "packs/pack-cx13.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61gwfg1zFUL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx14",
+    "release_code": "CX-14",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx14.webp",
+    "storage_path": "packs/pack-cx14.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61N7ksTpjhL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx15",
+    "release_code": "CX-15",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx15.webp",
+    "storage_path": "packs/pack-cx15.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-cx16",
+    "release_code": "CX-16",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-cx16.webp",
+    "storage_path": "packs/pack-cx16.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61poLro7mLL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-f9580",
+    "release_code": "F9580",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-f9580.webp",
+    "storage_path": "packs/pack-f9580.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81myAMd4BkL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-f9581",
+    "release_code": "F9581",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-f9581.webp",
+    "storage_path": "packs/pack-f9581.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81t44FR1lIL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-f9582",
+    "release_code": "F9582",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-f9582.webp",
+    "storage_path": "packs/pack-f9582.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81qDil7vYiL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-f9583",
+    "release_code": "F9583",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-f9583.webp",
+    "storage_path": "packs/pack-f9583.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81SvI+okTFL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0184",
+    "release_code": "G0184",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0184.webp",
+    "storage_path": "packs/pack-g0184.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71q7LuNXrvL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0193",
+    "release_code": "G0193",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0193.webp",
+    "storage_path": "packs/pack-g0193.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/718V57p5bAL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1536",
+    "release_code": "G1536",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1536.webp",
+    "storage_path": "packs/pack-g1536.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81H2+N64RIL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1537",
+    "release_code": "G1537",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1537.webp",
+    "storage_path": "packs/pack-g1537.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71r2Z1ixH+L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1538",
+    "release_code": "G1538",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1538.webp",
+    "storage_path": "packs/pack-g1538.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71RYaeIY2TL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1539",
+    "release_code": "G1539",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1539.webp",
+    "storage_path": "packs/pack-g1539.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81OsF6+CrRL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1673",
+    "release_code": "G1673",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1673.webp",
+    "storage_path": "packs/pack-g1673.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61q5jy4IkFL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1674",
+    "release_code": "G1674",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1674.webp",
+    "storage_path": "packs/pack-g1674.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1675",
+    "release_code": "G1675",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1675.webp",
+    "storage_path": "packs/pack-g1675.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81r+HCk4wJL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1676",
+    "release_code": "G1676",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1676.webp",
+    "storage_path": "packs/pack-g1676.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61xghlKktcL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1751",
+    "release_code": "G1751",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1751.webp",
+    "storage_path": "packs/pack-g1751.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81H2+N64RIL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1752",
+    "release_code": "G1752",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1752.webp",
+    "storage_path": "packs/pack-g1752.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81dxI82B68L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2738",
+    "release_code": "G2738",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2738.webp",
+    "storage_path": "packs/pack-g2738.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/714d9TGVZIL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2739",
+    "release_code": "G2739",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2739.webp",
+    "storage_path": "packs/pack-g2739.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/714ExLwC-aL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2740",
+    "release_code": "G2740",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2740.webp",
+    "storage_path": "packs/pack-g2740.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/714ExLwC-aL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1677",
+    "release_code": "G1677",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1677.webp",
+    "storage_path": "packs/pack-g1677.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71C42kE2dOL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1678",
+    "release_code": "G1678",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1678.webp",
+    "storage_path": "packs/pack-g1678.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71OKZmgrCtL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1679",
+    "release_code": "G1679",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1679.webp",
+    "storage_path": "packs/pack-g1679.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71yR4L3yA9L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1680",
+    "release_code": "G1680",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1680.webp",
+    "storage_path": "packs/pack-g1680.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71jgzHilE8L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1681",
+    "release_code": "G1681",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1681.webp",
+    "storage_path": "packs/pack-g1681.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81nvIcSbQeL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1682",
+    "release_code": "G1682",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1682.webp",
+    "storage_path": "packs/pack-g1682.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71PeL-hJu1L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1683",
+    "release_code": "G1683",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1683.webp",
+    "storage_path": "packs/pack-g1683.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81e4CztMpDL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1684",
+    "release_code": "G1684",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1684.webp",
+    "storage_path": "packs/pack-g1684.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/8112+zBkhLL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2746",
+    "release_code": "G2746",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2746.webp",
+    "storage_path": "packs/pack-g2746.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71SmRHUVLqL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2747",
+    "release_code": "G2747",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2747.webp",
+    "storage_path": "packs/pack-g2747.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81B65ZzGfZL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2748",
+    "release_code": "G2748",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2748.webp",
+    "storage_path": "packs/pack-g2748.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/714dKGXoeNL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2742",
+    "release_code": "G2742",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2742.webp",
+    "storage_path": "packs/pack-g2742.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71CQuq5dE2L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g3497",
+    "release_code": "G3497",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g3497.webp",
+    "storage_path": "packs/pack-g3497.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/716JR+jN3tL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g4561",
+    "release_code": "G4561",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g4561.webp",
+    "storage_path": "packs/pack-g4561.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/716JR+jN3tL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g4562",
+    "release_code": "G4562",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g4562.webp",
+    "storage_path": "packs/pack-g4562.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/711CzJ5YWoL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g4563",
+    "release_code": "G4563",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g4563.webp",
+    "storage_path": "packs/pack-g4563.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71ijBrHX2UL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g4571",
+    "release_code": "G4571",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g4571.webp",
+    "storage_path": "packs/pack-g4571.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61Ae4xO1AvL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g4572",
+    "release_code": "G4572",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g4572.webp",
+    "storage_path": "packs/pack-g4572.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0188",
+    "release_code": "G0188",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0188.webp",
+    "storage_path": "packs/pack-g0188.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81z969OTUuL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0192",
+    "release_code": "G0192",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0192.webp",
+    "storage_path": "packs/pack-g0192.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81X1JZCkSGL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0194",
+    "release_code": "G0194",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0194.webp",
+    "storage_path": "packs/pack-g0194.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81Xr2OEiWyL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0195",
+    "release_code": "G0195",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0195.webp",
+    "storage_path": "packs/pack-g0195.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81ewQBMfpJL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0283",
+    "release_code": "G0283",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0283.webp",
+    "storage_path": "packs/pack-g0283.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61Zaw9+aHmL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0284",
+    "release_code": "G0284",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0284.webp",
+    "storage_path": "packs/pack-g0284.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81nvIcSbQeL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0285",
+    "release_code": "G0285",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0285.webp",
+    "storage_path": "packs/pack-g0285.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81SvI+okTFL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0286",
+    "release_code": "G0286",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0286.webp",
+    "storage_path": "packs/pack-g0286.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81V1UP7Cp1L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1530",
+    "release_code": "G1530",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1530.webp",
+    "storage_path": "packs/pack-g1530.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81-03gfYqKL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1531",
+    "release_code": "G1531",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1531.webp",
+    "storage_path": "packs/pack-g1531.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81qDil7vYiL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1533",
+    "release_code": "G1533",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1533.webp",
+    "storage_path": "packs/pack-g1533.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81z969OTUuL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1534",
+    "release_code": "G1534",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1534.webp",
+    "storage_path": "packs/pack-g1534.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81PUUG34VuL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1669",
+    "release_code": "G1669",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1669.webp",
+    "storage_path": "packs/pack-g1669.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61jDRxmeTsL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1670",
+    "release_code": "G1670",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1670.webp",
+    "storage_path": "packs/pack-g1670.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71CQuq5dE2L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1671",
+    "release_code": "G1671",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1671.webp",
+    "storage_path": "packs/pack-g1671.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71q7LuNXrvL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1754",
+    "release_code": "G1754",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1754.webp",
+    "storage_path": "packs/pack-g1754.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81V1UP7Cp1L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1755",
+    "release_code": "G1755",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1755.webp",
+    "storage_path": "packs/pack-g1755.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81qDil7vYiL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1756",
+    "release_code": "G1756",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1756.webp",
+    "storage_path": "packs/pack-g1756.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81nvIcSbQeL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2731",
+    "release_code": "G2731",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2731.webp",
+    "storage_path": "packs/pack-g2731.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81PUUG34VuL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2732",
+    "release_code": "G2732",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2732.webp",
+    "storage_path": "packs/pack-g2732.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81H7yj2v6CL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2734",
+    "release_code": "G2734",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2734.webp",
+    "storage_path": "packs/pack-g2734.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81-03gfYqKL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g3392",
+    "release_code": "G3392",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g3392.webp",
+    "storage_path": "packs/pack-g3392.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81CIelbG+nL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0190",
+    "release_code": "G0190",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0190.webp",
+    "storage_path": "packs/pack-g0190.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81OsF6+CrRL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0196",
+    "release_code": "G0196",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0196.webp",
+    "storage_path": "packs/pack-g0196.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81qDil7vYiL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0197",
+    "release_code": "G0197",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0197.webp",
+    "storage_path": "packs/pack-g0197.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81RuWkdfm4L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0198",
+    "release_code": "G0198",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0198.webp",
+    "storage_path": "packs/pack-g0198.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81t44FR1lIL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0199",
+    "release_code": "G0199",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0199.webp",
+    "storage_path": "packs/pack-g0199.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61Zaw9+aHmL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0282",
+    "release_code": "G0282",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0282.webp",
+    "storage_path": "packs/pack-g0282.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81ewQBMfpJL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1542",
+    "release_code": "G1542",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1542.webp",
+    "storage_path": "packs/pack-g1542.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/813QpBfAWIL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1543",
+    "release_code": "G1543",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1543.webp",
+    "storage_path": "packs/pack-g1543.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81ewQBMfpJL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1685",
+    "release_code": "G1685",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1685.webp",
+    "storage_path": "packs/pack-g1685.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81-03gfYqKL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1686",
+    "release_code": "G1686",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1686.webp",
+    "storage_path": "packs/pack-g1686.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81PUUG34VuL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1687",
+    "release_code": "G1687",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1687.webp",
+    "storage_path": "packs/pack-g1687.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61Ae4xO1AvL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1688",
+    "release_code": "G1688",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1688.webp",
+    "storage_path": "packs/pack-g1688.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81myAMd4BkL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2754",
+    "release_code": "G2754",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2754.webp",
+    "storage_path": "packs/pack-g2754.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81z969OTUuL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2755",
+    "release_code": "G2755",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2755.webp",
+    "storage_path": "packs/pack-g2755.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/61Ae4xO1AvL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g2758",
+    "release_code": "G2758",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g2758.webp",
+    "storage_path": "packs/pack-g2758.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81RuWkdfm4L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-f9589",
+    "release_code": "F9589",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-f9589.webp",
+    "storage_path": "packs/pack-f9589.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81c+cAYDGSL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0287",
+    "release_code": "G0287",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0287.webp",
+    "storage_path": "packs/pack-g0287.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81476pT0CdL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0288",
+    "release_code": "G0288",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0288.webp",
+    "storage_path": "packs/pack-g0288.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81sNP7Fu1iL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0290",
+    "release_code": "G0290",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0290.webp",
+    "storage_path": "packs/pack-g0290.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81+SwDIRy-L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0352",
+    "release_code": "G0352",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0352.webp",
+    "storage_path": "packs/pack-g0352.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/815e6eNAmlL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0353",
+    "release_code": "G0353",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0353.webp",
+    "storage_path": "packs/pack-g0353.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81Z1ubxBcbL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1690",
+    "release_code": "G1690",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1690.webp",
+    "storage_path": "packs/pack-g1690.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71CQuq5dE2L._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1691",
+    "release_code": "G1691",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1691.webp",
+    "storage_path": "packs/pack-g1691.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81+nXSbQwcL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1692",
+    "release_code": "G1692",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1692.webp",
+    "storage_path": "packs/pack-g1692.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/814sPNghuuL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1694",
+    "release_code": "G1694",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1694.webp",
+    "storage_path": "packs/pack-g1694.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81gazOutLuL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1695",
+    "release_code": "G1695",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1695.webp",
+    "storage_path": "packs/pack-g1695.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81TvKWHxrsL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1898",
+    "release_code": "G1898",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1898.webp",
+    "storage_path": "packs/pack-g1898.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81+nXSbQwcL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1899",
+    "release_code": "G1899",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1899.webp",
+    "storage_path": "packs/pack-g1899.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81AHmHa0QrL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1844",
+    "release_code": "G1844",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1844.webp",
+    "storage_path": "packs/pack-g1844.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/71Oi0-QsATL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g3195",
+    "release_code": "G3195",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g3195.webp",
+    "storage_path": "packs/pack-g3195.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81VXJ8MchIL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g3393",
+    "release_code": "G3393",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g3393.webp",
+    "storage_path": "packs/pack-g3393.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81pLO4d7NrL._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-f9578",
+    "release_code": "F9578",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-f9578.webp",
+    "storage_path": "packs/pack-f9578.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81X2PNb4iML._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0318",
+    "release_code": "G0318",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0318.webp",
+    "storage_path": "packs/pack-g0318.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81X2PNb4iML._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g0841",
+    "release_code": "G0841",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g0841.webp",
+    "storage_path": "packs/pack-g0841.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81X2PNb4iML._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1863",
+    "release_code": "G1863",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1863.webp",
+    "storage_path": "packs/pack-g1863.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81X2PNb4iML._AC_SL600_.jpg"
+  },
+  {
+    "pack_id": "pack-g1864",
+    "release_code": "G1864",
+    "local_path": "/Users/santiperez/Documents/PROYECTOS/JSONS/beydex-jsons/images_output/packs/pack-g1864.webp",
+    "storage_path": "packs/pack-g1864.webp",
+    "status": "downloaded",
+    "source_url": "https://m.media-amazon.com/images/I/81VXJ8MchIL._AC_SL600_.jpg"
+  }
+]
